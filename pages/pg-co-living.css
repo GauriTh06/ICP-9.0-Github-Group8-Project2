@@ -1,0 +1,44 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #fef6e4;
+}
+
+.collection-parent-card{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.collection-card{
+    width: 250px;
+    border-radius: 20px;
+    margin: 30px;
+    position: relative;
+   
+
+}
+
+.boy{
+    width: 250px;
+    border-radius: 20px;
+
+}
+
+.collection-text{
+    color: white;
+    position:absolute;
+    top: 65%;
+    left: 35%;
+    width: 100%;
+    font-size: 20px;
+    font-weight: bold;
+  
+       
+}
+.banner{
+    width: 80%;
+    display: block;
+    margin: 10px auto;
+    border-radius: 20px;
+}
