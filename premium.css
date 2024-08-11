@@ -1,0 +1,14 @@
+.premimum-inner-container{
+    height: 100%;
+}
+.premimum-header{
+    background-color: #000;
+    color:#fff;
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+    align-items: center;
+    padding: 0 12px;
+    font-size: 12.5px;
+
+}
