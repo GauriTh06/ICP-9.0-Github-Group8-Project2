@@ -1,8 +1,8 @@
 .body
 {
     background-color:#fef6e4 ;
-    margin:0%;
-    padding:0%;
+    margin:0;
+    padding:0;
 }
 
 .button
@@ -11,27 +11,41 @@
     color: #001858;
 }
 
-.header-container
-{
-    height: 700px;
-    width: 1000px;
+.header-main-container
+  {
+    height: 500px;
+    width: 1320px;
     background-color: #f3d2c1;
-    margin-top: 0%;
-    margin-left: 30px;
+    margin-top: none;
+    margin-left: 100px;
     margin-right: 30px;
     margin-bottom: 30px;
-    border-radius: 40px;
-}
+    border-radius: 0px 0px 40px 40px;
+    display:flex;
+    padding: 0px;
+  }
+.header-taskbar-container
+  {
+    width:1320px ;
+    height:50px;
+    background-color:#ffbb99;
+    backdrop-filter: blur(10px);
+
+
+  }
+
 
 .heading-color
-{
+  {
       color: #001858;
-}
+  }
 
-.heading-font-style{
+.heading-font-style
+  {
     font-family:"Outfit", sans-serif;
-}
+  }
 
-.text-font-style{
+.text-font-style
+  {
     font-family: "Montserrat", sans-serif;
-}
+  }
