@@ -12,14 +12,33 @@
     font-size: 12.5px;
 
 }
+.premimum-header-logo{
+    height: 18px;
+}
 .premimum-menu-container{
     display: flex;
+    justify-content: space-between;
+}
+.premimum-menu-sub-container-save{
+    display:inline-block;
+    font-size: 15px;
+    align-self: center;
+   
+}
+.premimum-menu-sub-container-save a{
+    color:#fff;
+}
+.premimum-menu-sub-container-save img{
+    width: 12px;
+    height: 12px;
+   
 }
 .premimum-menu-sub-container{
     background-color:#fff;
     color:black;
     padding:5px 10px;
     border-radius: 21.5px;
+    margin-left: 30px;
 }
 .premimum-menu-sub-container-hamberger-img{
     width: 26px;
