@@ -44,3 +44,12 @@
     width: 26px;
     height: 22px;
 }
+.premimum-content-container{
+    border:1px solid red;
+    width: 1120px;
+    margin:10px auto;
+}
+.premimum-content-section1{
+    display: flex;
+    justify-content: space-between;
+}
