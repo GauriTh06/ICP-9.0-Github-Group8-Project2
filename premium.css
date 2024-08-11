@@ -1,5 +1,6 @@
 .premimum-inner-container{
     height: 100%;
+    background-color: #800040;
 }
 .premimum-header{
     background-color: #000;
@@ -45,11 +46,110 @@
     height: 22px;
 }
 .premimum-content-container{
-    border:1px solid red;
+    border:0px; 
     width: 1120px;
     margin:10px auto;
 }
 .premimum-content-section1{
     display: flex;
     justify-content: space-between;
+
+}
+.premimum-text-color{
+    color: #fff;
+}
+.premimum-content-section1-rent-section{
+    border:1px solid #1e071d;
+    width: 65px;
+    font-size: 22px;
+    height: 35px;
+    padding-top:6px;
+    border-radius:12px 10px 0px 0px;
+    border-right: 0px;
+    border-bottom: 0px;
+    background-color: #1e071d;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.premimum-content-section1-rent-sectiona{
+    height: 35px;
+    border-radius: 0 10px 0 0;
+    border: 1px solid #1e071d;
+    border-left: 0px;
+    padding-top: 6px;
+    padding-right: 5px;
+    transform: skew(25deg, 0deg);
+    border-bottom: 0;
+    width: 20px;
+    right:11px;
+    background-color: #1e071d;
+    position: relative;
+}
+.premimum-content-section1-buy-section{
+    border:1px solid #5a0f36;
+    width: 65px;
+    font-size: 15px;
+    height: 33px;
+    padding-top:6px;
+    border-radius:15px 19px 0px 0px;
+    border-right: 0px;
+    border-bottom: 0px;
+    background-color: #5a0f36;
+    padding-right: 10px;
+    border-left: 0px;
+    margin:2px 0px 0px -25px;
+    padding-left: 10px;
+    line-height: 25px;
+}
+.premimum-content-section1-buy-section a{
+    color:hsla(0,0%,100%,.5);
+}
+.premimum-content-section1-buy-sectiona{
+    height: 32px;
+    border-radius: 0 10px 0 0;
+    border: 1px solid #5a0f36;
+    border-left: 0px;
+    padding-top: 6px;
+    padding-right: 5px;
+    margin-top: 2px;
+    transform: skew(40deg, 0deg);
+    border-bottom: 0;
+    width: 20px;
+    right:17px;
+    background-color: #5a0f36;
+    position: relative;
+}
+.premimum-content-section2{
+    display: flex;
+}
+.premimum-content-section2 img{
+    height: 26px;
+}
+.premimum-content-section2-content{
+    margin-left: 5px;
+    color: #fff;
+}
+.premimum-content-section2-content span{
+    font-size: 13px;
+}
+.premimum-content-section3{
+    display: flex;
+}
+.premimum-content-section3a{
+    display:flex;align-items: center;
+}
+.premimum-content-section3a span{
+    margin-top:3px;
+    border:1px solid hsla(0,0%,100%,.5);
+    background-color: hsla(0,0%,100%,.5); 
+    border-radius: 20px;
+    padding:5px 5px;
+}
+.premimum-content-section3b{
+    margin-left: 10px;
+    display:flex;
+    align-items: center;
+}
+.premimum-content-section3 img{
+    height:  26px;
 }
