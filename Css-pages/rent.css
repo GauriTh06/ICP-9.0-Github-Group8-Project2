@@ -37,7 +37,7 @@ h2{
    
 }
 p{
-    color: #172c66;
+    
     font-family: "Montserrat", sans-serif;
 
 }
@@ -67,11 +67,12 @@ p{
    
 }
 .selers-info{
-    border-radius:25px;
+    border-radius:30px;
     background-color:#f3d2c1;
     border: #e6c5b4 solid 2px;
     margin: 10px;
-    padding:5px;text-align: center;
+    padding:5px;
+    text-align: center;
    justify-content: center;
     width: 300px;
     
@@ -79,7 +80,7 @@ p{
 }
 .btn{
     border-radius: 50%;
-    padding: 20px;
+    padding: 10px;
     margin-top: 5px;
     margin-left: 0px;
 }
@@ -99,7 +100,6 @@ p{
 .btn2{
     padding: 5px 10px;
     border-radius:  20px;
-    background-color:#fff;
    
 }
 .recommended-saler{
