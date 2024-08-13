@@ -1,0 +1,77 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #fef6e4;
+}
+
+
+.collection-parent-card{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.collection-card{
+    width: 250px;
+    border-radius: 20px;
+    margin: 20px;
+    position: relative;  
+
+}
+
+.boy{
+    width: 250px;
+    border-radius: 20px;
+
+}
+
+
+.collection-text{
+    text-align: center;
+    color:#fef6e4;
+    position:absolute;
+    top: 65%;
+    width: 100%;
+    font-size: 20px;
+    font-weight: bold;
+       
+}
+
+
+.banner{
+    width: 80%;
+    display: block;
+    margin: 10px auto;
+    border-radius: 20px;
+}
+
+.home-at-first-sight{
+    height: 450px;
+    width: 90%;
+    background-image: url("./../image/nature-home.jpg");
+    background-size: cover;
+    margin: 20px auto;
+    border-radius: 20px;
+    border: 2px solid #001858;
+
+}
+
+.text-house{
+    color: #fef6e4;
+    position:absolute;
+    left: 11%;
+    top: 43%;
+    font-family: "Permanent Marker";
+    font-weight: 400;
+    font-size: 40px;
+}
+
+.text-house-2{
+    position:absolute;
+    left: 9%;
+    top: 67%;
+    color: #fef6e4;
+    font-size: 22px;
+    font-family: cursive;
+
+}
