@@ -55,23 +55,91 @@ body{
     border: 2px solid #001858;
 
 }
+.home-at-first-sight-2{
+    width: fit-content;
+    height: fit-content;
+
+}
 
 .text-house{
     color: #fef6e4;
-    position:absolute;
-    left: 11%;
-    top: 43%;
+    margin-top: 60px;
+    margin-left: 73px;
+    margin-bottom: 0px;
     font-family: "Permanent Marker";
     font-weight: 400;
     font-size: 40px;
 }
 
 .text-house-2{
-    position:absolute;
-    left: 9%;
-    top: 67%;
+
+    margin-top: 10px;
+    margin-left: 35px;
     color: #fef6e4;
     font-size: 22px;
     font-family: cursive;
 
+}
+
+.parent-city-card{
+    width:100%;
+    margin-top: 20px;
+}
+
+.popular-cities{  
+   display: flex;   
+   margin: 0px auto;
+   border-radius: 10px;
+   
+}
+
+.align{
+    display: flex;
+    margin: 0px auto;
+   
+}
+
+.city-img{
+    width: 300px;
+    height: 200px; 
+    border-radius: 10px;
+
+}
+
+.city{
+    padding: 10px;
+    background-color: #ffccb3;
+       
+}
+
+.city-text{
+    text-align: center;
+    margin: 2px;
+    font-weight: bold;
+    font-size: 20px;
+    color: #001858;
+   
+}
+.city-headline{
+   text-align: center; 
+   color: #001858;
+   background-color: #f7e0d4;
+   padding: 20px;
+   
+}
+
+.b-r-1{
+    border-radius: 0px 0px 0px 13px;
+}
+
+.b-r-2{
+    border-radius: 0px 13px 0px 0px;
+}
+
+.b-r-3{
+    border-radius: 0px 0px 13px 0px;
+}
+
+.b-r-4{
+    border-radius: 13px 0px 0px 0px;
 }
