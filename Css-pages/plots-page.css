@@ -1,0 +1,12 @@
+body{
+    
+}
+.cards_container {
+}
+.card {
+  cursor: pointer;
+  border: none;
+  border-radius: 20px;
+  height: 280px;
+  width: 280px;
+}
