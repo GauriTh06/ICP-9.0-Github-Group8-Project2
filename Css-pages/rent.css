@@ -39,6 +39,7 @@ h2{
 p{
     color: #172c66;
     font-family: "Montserrat", sans-serif;
+
 }
 .container1
 {
@@ -66,8 +67,50 @@ p{
    
 }
 .selers-info{
-    flex-direction: row;
-    display: flex;
-    flex-wrap: wrap;
+    border-radius:25px;
+    background-color:#f3d2c1;
+    border: #e6c5b4 solid 2px;
+    margin: 10px;
+    padding:5px;text-align: center;
+   justify-content: center;
+    width: 300px;
+    
+   
+}
+.btn{
+    border-radius: 50%;
+    padding: 20px;
+    margin-top: 5px;
+    margin-left: 0px;
+}
+
+.saler{
+    
+    padding: 5px;
+    text-align: center;
+}
+.btn1{
+    padding: 5px;
+    border-radius:  15px;
+    margin-left: 5px;
+    margin-bottom: 2px;
     
 }
+.btn2{
+    padding: 5px 10px;
+    border-radius:  20px;
+    background-color:#fff;
+   
+}
+.recommended-saler{
+     border: 2px solid #e6c5b4;
+    margin: 5px 0;
+    padding: 20px; 
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    box-shadow: 0 0 10px 0px #f582ae;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
