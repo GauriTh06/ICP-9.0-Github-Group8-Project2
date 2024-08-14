@@ -163,6 +163,7 @@
     display: flex;
     justify-content: space-between;
     border-bottom: 1px solid hsla(0,0%,100%,.5);
+    margin-bottom: 25px;
 }
 .equal-width{
     width: 50%;
