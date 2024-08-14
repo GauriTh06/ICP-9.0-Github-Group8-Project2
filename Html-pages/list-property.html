@@ -3,18 +3,39 @@
 <head>
     <title>List Property</title>
     <link rel="stylesheet" href="./../style.css">
+    <link rel="stylesheet" href="./../Css-pages/list-property.css">
 </head>
 <body class="body">
     <h3>Rentify-Hub.com</h3>
-    <div>
+    <div class="img-form-container">
         <div>
-            <h1>Upload your property in 3 simple steps.</h1>
-            <ul type="square">
+            <h1 class="heading-color">Upload your property in 3 simple steps.</h1>
+            <ul type="square" class="form-text">
                 <li>Add Basic Detalis</li>
                 <li>Add Property Detalis</li>
                 <li>Add Photos</li>
             </ul>
-            
+            <img src="./../image/list-property-image.jfif">
+        </div>
+        <div class="form-container">
+            <form>
+                <span class="form-text">Property Type</span><br><br>
+                <button class="form-btn button">Residential</button>
+                <button class="form-btn button">Commercial</button>
+                <br><br>
+                <span class="form-text">Looking To</span><br><br>
+                <button class="form-btn button">Rent</button>
+                <button class="form-btn button">Sell</button>
+                <button class="form-btn button">PG/Co-living</button>
+                <br><br>
+                <label for="num" class="form-text">+91</label>
+                <input  id="num" placeholder="Enter Phone Number" class="form-input"><br><br>
+                <label for="name" class="form-text">Owner Name:</label>
+                <input id="name" placeholder="Enter Full Name"  class="form-input"><br><br>
+                <label for="city" class="form-text">City Name:</label>
+                <input id="city" placeholder="Enter City Name" class="form-input"><br><br>
+                <button class="form-btn btn-width button">Next add address & price</button>
+            </form>
         </div>
     </div>
 </body>
