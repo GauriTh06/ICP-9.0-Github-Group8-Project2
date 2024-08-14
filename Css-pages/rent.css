@@ -55,17 +55,48 @@ p{
 
 }
 .feature-card{
-    background-image: url('/image/img1.webp');
+    background-image: url('/image/bachelor.jpeg');
     background-size: cover;
     text-align: center;
     background-color:#f3d2c1;
-   
     margin: 5px;
     border-radius: 5px;
     width: 400px;
-   
-   
+    height: 200px;
+    color: #e37da4;
 }
+
+.feature-card1{
+    background-image: url('/image/communicate.jpeg');
+    background-size: cover;
+    text-align: center;
+    background-color:#f3d2c1;
+    margin: 5px;
+    border-radius: 5px;
+    width: 400px;
+    color: #e37da4;
+}
+.feature-card2{
+    background-image: url('/image/owner.jpeg');
+    background-size: cover;
+    text-align: center;
+    background-color:#f3d2c1;
+    margin: 5px;
+    border-radius: 5px;
+    width: 400px;
+    color: #e37da4;
+}
+.feature-card3{
+    background-image: url('/image/lightnight.jpeg');
+    background-size: cover;
+    text-align: center;
+    background-color:#f3d2c1;
+    margin: 5px;
+    border-radius: 5px;
+    width: 400px;
+    color: #e37da4;
+}
+
 .selers-info{
     border-radius:30px;
     background-color:#f3d2c1;
@@ -91,7 +122,7 @@ p{
     text-align: center;
 }
 .btn1{
-    padding: 5px;
+    padding: 10px;
     border-radius:  15px;
     margin-left: 5px;
     margin-bottom: 2px;
@@ -103,7 +134,7 @@ p{
    
 }
 .recommended-saler{
-     border: 2px solid #e6c5b4;
+    border: 2px solid #e6c5b4;
     margin: 5px 0;
     padding: 20px; 
     display: flex;
@@ -113,4 +144,32 @@ p{
     flex-direction: row;
     flex-wrap: wrap;
 }
+.house-img{
+    background-image: url('./../image/house-img.webp');
+    background-size: cover;  
+    border-radius: 25px;  
+    width: 800px;
+    border: 2px solid #e6c5b4;
+    height: 400px;
+    
+}
+.house{
+    padding: 10px 20px;
+    margin: 5px 0;
+    box-shadow: 0 0 10px 0px #f582ae;
+    background-color:#f3d2c1;
+    margin-top: 20px;
+    display: flex;
+    
 
+}
+h1{
+    color: #f582ae;
+    padding: 10px;
+}
+h3{
+    padding: 0px 10px;
+}
+.house-caption{
+
+}
