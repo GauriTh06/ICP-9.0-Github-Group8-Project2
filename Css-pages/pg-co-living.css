@@ -143,3 +143,35 @@ body{
 .b-r-4{
     border-radius: 13px 0px 0px 0px;
 }
+
+.parent-benifits-card{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+
+}
+
+.benifit-cards{
+    margin: 55px;
+    margin-bottom: 0px;
+    margin-top: 5px;
+
+}
+
+.benifit-img{
+    width: 170px;
+    display: block;
+    margin: 0px auto;
+}
+
+.benifit-text{
+    text-align: center;
+    margin-bottom: 0px;
+    font-size: 17px;
+
+}
+.benifit-text-2{
+    text-align: center;
+    margin-top: 7px;
+    font-size: 13px;
+}
