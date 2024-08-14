@@ -1,14 +1,40 @@
 .Container{
     display: flex;
     flex-direction: row;
-    flex-wrap: wrap;
-    padding:10px;
+    padding:20px;
+    border: hsl(20, 50%, 80%) solid 2px;
+    margin: 70px;
+    border-radius: 25px;
     box-shadow: 0 0 10px 0px #f582ae;
 
 }
 .img{
-    width: 150px;
-    border-radius: 10px;
-    margin: auto;
+    width: 300px;
+    border-radius: 2cap;
+    margin-top: 20px;
     padding: 10px;
+}
+.feature{
+    padding: 0px 10px;
+}
+.btn{
+    margin-left: 10px;
+    padding:  5px 10px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 560px;
+    text-decoration: none;
+   
+
+}
+.like-img{
+    margin-left:650px;
+}
+.share-img{
+    margin-left: 30px;
+}
+.btn1{
+    margin-left: 30px;
+    padding:  5px 10px;
+    border-radius: 10px;
 }
