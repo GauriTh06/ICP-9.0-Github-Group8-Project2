@@ -64,6 +64,7 @@ p{
     width: 400px;
     height: 200px;
     color: #e37da4;
+    
 }
 
 .feature-card1{
@@ -172,4 +173,10 @@ h3{
 }
 .house-caption{
 
+}
+a{
+    text-decoration: none;
+    color:#e6c5b4;
+    margin-top: 100px;
+    font-size: 25px;
 }
