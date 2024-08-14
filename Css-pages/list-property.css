@@ -1,11 +1,14 @@
+
 .img-form-container{
     display: flex;
-    margin: 40px;
+    align-items: center;
+    padding: 40px;
 }
 .form-container{
     border: 1px solid black;
     margin: 0px 20px;
     padding: 30px ;
+    border-radius: 30px;
 }
 .form-text{
     font-size: 23px;
@@ -33,4 +36,17 @@
     font-size: 20px;
     cursor: pointer;
     transition: 0.5s;
+}
+.card-container{
+    padding: 40px;
+    align-items: center;
+}
+.card{
+    width: 400px;
+    display: flex;
+    align-items: center;
+}
+.image{
+    height: 100px;
+    margin-right: 40px;
 }
