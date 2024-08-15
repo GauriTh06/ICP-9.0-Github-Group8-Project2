@@ -73,6 +73,18 @@
 .faq-card{
     width: 600px;
 }
+.alig-centr{
+    text-align: center ;
+    display: block;
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+.testimonial-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
 .testimonial-card{
     width:250px ;
     border: 1px solid black;
