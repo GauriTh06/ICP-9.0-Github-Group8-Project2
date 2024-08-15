@@ -1,4 +1,8 @@
-
+.header-container{
+    background-color:#f3d2c1;
+    border-radius: 40px;
+    margin: 20px;
+}
 .img-form-container{
     display: flex;
     align-items: center;
