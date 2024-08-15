@@ -3,6 +3,8 @@ h2{
     border-bottom: 2px solid #f582ae; 
     padding: 0px 10px;
     margin-bottom: 1em;
+    margin-left: 50px;
+    width: 1420px;
 }
 
 .container
@@ -12,10 +14,12 @@ h2{
     margin: 5px 0;
     padding: 20px; 
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     flex-direction: row;
     box-shadow: 0 0 10px 0px #f582ae;
-    
+    margin-left: 50px;
+    width: 1400px;
+
 }
 .img{
     width: 150px;
@@ -54,6 +58,8 @@ p{
     flex-direction: row;
     border: 2px solid #e6c5b4;
     box-shadow: 0 0 10px 0px #f582ae;
+    margin-left: 50px;
+    width: 1400px;
 }
 .feature-card{
     background-image: url('/image/bachelor.jpeg');
@@ -165,6 +171,8 @@ padding:7px 12px ;
     box-shadow: 0 0 10px 0px #f582ae;
     flex-direction: row;
     flex-wrap: wrap;
+    margin-left: 50px;
+    width: 1400px;
 }
 .house-img{
     background-image: url('./../image/house-img.webp');
@@ -186,6 +194,8 @@ padding:7px 12px ;
     margin-top: 20px;
     display: flex;
     border: 2px solid #e6c5b4;
+    margin-left: 50px;
+    width: 1400px;
 }
 h1{
     color: #f582ae;
