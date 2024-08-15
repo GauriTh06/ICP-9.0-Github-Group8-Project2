@@ -5,8 +5,11 @@
     border: hsl(20, 50%, 80%) solid 2px;
     margin: 20px;
     border-radius: 25px;
+    background-color:#f3d2c1;
     box-shadow: 0 0 10px 0px #f582ae;
-
+}
+.Container:hover{
+    box-shadow: 0 0 10px 0px #f582ae;
 }
 .img{
     width: 300px;
@@ -52,4 +55,11 @@ h2{
 .main-header{
     margin-top: 50px;
     padding:  0px 10px;
+}
+.maincard-container{
+    border: 2px solid #e6c5b4;
+    border-radius: 20px;
+}
+p{
+    font-family: "Montserrat", sans-serif;
 }

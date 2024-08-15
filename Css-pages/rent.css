@@ -36,6 +36,9 @@ h2{
     border: #e6c5b4 solid 2px;
    
 }
+.menu-container:hover{
+    box-shadow: 0 0 10px 0px #f582ae;
+}
 p{
     
     font-family: "Montserrat", sans-serif;
@@ -52,41 +55,44 @@ p{
     flex-direction: row;
     border: 2px solid #e6c5b4;
    
-   
-
 }
 .feature-card{
     background-image: url('/image/bachelor.jpeg');
     background-size: cover;
-    text-align: center;
-    background-color:#f582ae;
+    text-align:center;
     margin: 5px;
     border-radius: 5px;
     width: 400px;
     height: 200px;
-   
     
 }
-
+.feature-card:hover{
+    box-shadow: 0 0 10px 1px #f582ae;
+    border-radius:10px;
+}
 .feature-card1{
     background-image: url('/image/communicate.jpeg');
     background-size: cover;
     text-align: center;
-    background-color:#f3d2c1;
     margin: 5px;
     border-radius: 5px;
     width: 400px;
-   
+}
+.feature-card1:hover{
+    box-shadow: 0 0 10px 1px #f582ae;
+    border-radius:10px;
 }
 .feature-card2{
     background-image: url('/image/owner.jpeg');
     background-size: cover;
     text-align: center;
-    background-color:#e37da4;
     margin: 5px;
     border-radius: 5px;
-    width: 400px;
-  
+    width: 400px;   
+}
+.feature-card2:hover{
+    box-shadow: 0 0 10px 1px #f582ae;
+    border-radius:10px;
 }
 .feature-card3{
     background-image: url('/image/lightnight.jpeg');
@@ -97,6 +103,10 @@ p{
     border-radius: 5px;
     width: 400px;
 }  
+.feature-card3:hover{
+    box-shadow: 0 0 10px 1px #f582ae;
+    border-radius:10px;
+}
 
 .selers-info{
     border-radius:30px;
@@ -133,8 +143,12 @@ p{
     padding: 5px 10px;
     border-radius:  20px;
     color: #fff;
-    border:solid 0px;
-   
+    border:solid 0px;  
+}
+.btn2:hover{
+text-decoration: underline;
+cursor: pointer;
+padding:7px 12px ;
 }
 .recommended-saler{
     border: 2px solid #e6c5b4;
@@ -163,8 +177,6 @@ p{
     background-color:#f3d2c1;
     margin-top: 20px;
     display: flex;
-    
-
 }
 h1{
     color: #f582ae;
@@ -173,9 +185,7 @@ h1{
 h3{
     padding: 0px 10px;
 }
-.house-caption{
 
-}
 a{
     text-decoration: none;
     color:#e6c5b4;
