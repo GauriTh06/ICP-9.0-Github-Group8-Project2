@@ -1,7 +1,7 @@
 .Container{
     display: flex;
     flex-direction: row;
-    padding:20px;
+    padding:0px 10px;
     border: hsl(20, 50%, 80%) solid 2px;
     margin: 20px;
     border-radius: 25px;
@@ -19,8 +19,8 @@
 }
 .btn{
     margin-left: 10px;
-    padding:  5px 10px;
-    border-radius: 10px;
+    padding:  10px 20px;
+    border-radius: 20px;
     margin-top: 20px;
     margin-left: 560px;
     text-decoration: none;
@@ -31,14 +31,16 @@
 }
 .like-img{
     margin-left:650px;
+    padding-top: 5px;
 }
 .share-img{
     margin-left: 30px;
+    padding-top: 5px;
 }
 .btn1{
     margin-left: 30px;
-    padding:  5px 10px;
-    border-radius: 10px;
+    padding:  10px 20px;
+    border-radius: 20px;
     border: solid 0px;
     color: #fff;
 }

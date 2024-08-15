@@ -52,18 +52,19 @@ p{
     flex-direction: row;
     border: 2px solid #e6c5b4;
    
+   
 
 }
 .feature-card{
     background-image: url('/image/bachelor.jpeg');
     background-size: cover;
     text-align: center;
-    background-color:#f3d2c1;
+    background-color:#f582ae;
     margin: 5px;
     border-radius: 5px;
     width: 400px;
     height: 200px;
-    color: #e37da4;
+   
     
 }
 
@@ -75,17 +76,17 @@ p{
     margin: 5px;
     border-radius: 5px;
     width: 400px;
-    color: #e37da4;
+   
 }
 .feature-card2{
     background-image: url('/image/owner.jpeg');
     background-size: cover;
     text-align: center;
-    background-color:#f3d2c1;
+    background-color:#e37da4;
     margin: 5px;
     border-radius: 5px;
     width: 400px;
-    color: #e37da4;
+  
 }
 .feature-card3{
     background-image: url('/image/lightnight.jpeg');
@@ -95,8 +96,7 @@ p{
     margin: 5px;
     border-radius: 5px;
     width: 400px;
-    color: #e37da4;
-}
+}  
 
 .selers-info{
     border-radius:30px;
@@ -132,6 +132,8 @@ p{
 .btn2{
     padding: 5px 10px;
     border-radius:  20px;
+    color: #fff;
+    border:solid 0px;
    
 }
 .recommended-saler{
