@@ -30,18 +30,13 @@
     background-color:#ff9999;
     backdrop-filter: blur(10px);
     display:flex;
-    
-
-
-
   }
   
   .Logo-image{
     margin-top: 8px;
     margin-bottom: 2px;
     margin-left: 30px;
-    margin-right:2px;
-    
+    margin-right:2px; 
   }
   .websitename{
     font-family: "Roboto Condensed", sans-serif;
