@@ -40,13 +40,21 @@
 .card-container{
     padding: 40px;
     align-items: center;
+    display: flex;
+    flex-direction: row;
+    margin-left: 80px;
 }
 .card{
     width: 400px;
     display: flex;
     align-items: center;
-}
+    
+} 
 .image{
     height: 100px;
     margin-right: 40px;
+}
+.building-image{
+   height: 400px;
+   margin-left: 80px;
 }
