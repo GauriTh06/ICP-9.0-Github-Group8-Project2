@@ -73,3 +73,21 @@
 .faq-card{
     width: 600px;
 }
+.testimonial-card{
+    width:250px ;
+    border: 1px solid black;
+    margin: 30px 30px;
+    margin-top: 50px;
+    position: relative;
+    padding: 110px 10px 10px 10px;
+    text-align: center;
+}
+.customer-img{
+    position: absolute;
+    width: 150px;
+    left: 50px;
+    top: -50px;
+    padding: 0px;
+    border-radius: 50%;
+    margin: 0px auto;
+}
