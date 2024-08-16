@@ -2,13 +2,20 @@
   background: linear-gradient(to right, #e5ccff,#ffb3b3);
   height:300px;
   width:600px;
-  margin:20px auto;
-  padding:30px;
+  padding:20px;
   border-radius: 30px;
+  display:flex;
+  position: relative;
+   margin: 20px;
+   background-color: aqua;
+  
+  
+
 }
 .main-building-container{
   display:flex;
   flex-wrap: wrap;
+  justify-content: center;
 }
 .text-font-size
  {
@@ -23,3 +30,75 @@
    font-weight: 400;
    margin-left: 110px 
  }
+ .comapny-logo-image{
+      height:50px;
+      width: 50px;
+      border-radius: 10px;
+      margin: 10px auto;
+
+ }
+ .heading-text{
+  margin:-10px 0;
+ }
+ .building-text{
+  display: flex;
+  justify-content: space-between;
+  
+  
+  
+
+ }
+ .Building-img{
+  height:300px ;
+  width:380px;
+  display: block;
+  margin:0 10px;
+  border-radius: 10px;
+  
+ }
+ .Project-in-focus-Container{
+  display: flex;
+  flex-wrap: wrap;
+  background-color: #f3d2c1;
+ }
+ .Project-in-focus-images{
+  height:300px;
+  width: 450px;
+  margin: 20px 25px;
+  border-radius: 20px;
+  box-shadow:  5px 5px 5px #737373;
+  display:block
+ }
+ .image-container {
+  position: relative;
+  width:fit-content; 
+}
+
+
+
+.text-overlay2 {
+  position: absolute;
+  top: 67%; /* Position the text in the middle (vertically) */
+  left: 32%; /* Position the text in the middle (horizontally) */
+  transform: translate(-50%, -50%); /* Adjust the positioning to center the text */
+  color: white; /* Text color */
+  background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background for better readability */
+  padding: 10px;
+  font-size: 15px;
+  font-weight: 500;
+}
+.text-overlay1 {
+  position: absolute;
+  top: 68%; /* Position the text in the middle (vertically) */
+  left: 27%; /* Position the text in the middle (horizontally) */
+  transform: translate(-50%, -50%); /* Adjust the positioning to center the text */
+  color: white; /* Text color */
+  background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background for better readability */
+  padding: 10px;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+
+
+ 

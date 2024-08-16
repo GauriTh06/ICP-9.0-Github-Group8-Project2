@@ -14,10 +14,10 @@
 .header-main-container
   {
     height: 500px;
-    width: 1320px;
+    width: 1420px;
     background-color:#f3d2c1;
     margin-top: none;
-    margin-left: 100px;
+    margin-left: 50px;
     margin-right: 30px;
     margin-bottom: 30px;
     border-radius: 0px 0px 40px 40px;
@@ -25,11 +25,13 @@
   }
 .header-taskbar-container
   {
-    width:1320px ;
-    height:50px;
+    width:1420px ;
+    height: 50px;
     background-color:#ff9999;
     backdrop-filter: blur(10px);
     display:flex;
+    
+
 
 
   }
@@ -72,6 +74,22 @@
     padding-right: 30px;
     
   }
+  .premium-button-text{
+    align-items: center;
+  }
+  .header-link-pages-container{
+    
+    width: 730px;
+    justify-content: space-around;
+    background-color:#ff9999 ;
+    gap:20px;
+    flex-direction: column;
+    border-radius:15px 15px 40px 40px;
+    padding-top: 18px;
+    margin-left: 160px;
+    
+
+  }
   .header-link-pages{
     
     font-size: 20px;
@@ -80,23 +98,65 @@
     margin:-10px 12px;
   }
   .Link-pages{
-    display:flex;
-    margin: 10px auto;
+   
+   padding: 10px;
+   margin-top: 30px;
+   margin-left: 30px;
 
+  }
+  .text-link
+  {
+    padding: 10px;
+    margin: 10px 10px;
+    font-size: 20px;
+    font-weight: 300;
+    color:black;
+    font-weight: 400;
+    text-decoration: none;
   }
   .link-pages-container{
     background-color:#ff6699;
     height: 30px;
     width: 100px;
     align-items: center;
+    
   }
-   
+   .header-heading-text{
+    margin-top: 180px;
+    margin-left: 160px;
+    font-size: 40px;
+    font-weight: 600;
+    margin-bottom: none;
+   }
+   .header-input-box{
+    margin:0 auto;
+    margin-top: 30px;
+    display: block;
+    width: 100%;
+    border:none;
+    border-radius:35px 35px 38px 38px;
+    font-size: 20px;
+    padding: 23px;
+    text-decoration: none;
+   }
     
+   .Navbar-container{
+    display:flex;
+
+   }
+   .Main-Navbar-container{
+    display:block;
+   }
+   .header-img{
+    height: 300px;
+    width: 360px;
+    margin:70px 70px;
+    border-radius: 20px;
+    box-shadow: 10px 6px 15px #737373;
+    transform: perspective(200px) rotate3D(0, 1, 0, -10deg);
+   }
     
-  
-
-
-.heading-color
+  .heading-color
   {
       color: #001858;
   }
