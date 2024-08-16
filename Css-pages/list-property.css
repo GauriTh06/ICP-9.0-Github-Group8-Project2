@@ -1,7 +1,10 @@
 .header-container{
     background-color:#f3d2c1;
-    border-radius: 40px;
-    margin: 20px;
+    border-radius: 40px 0px;
+    width: 1430px;
+}
+.webname{
+    display: block;
 }
 .img-form-container{
     display: flex;
