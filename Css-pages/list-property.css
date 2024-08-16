@@ -1,7 +1,7 @@
 .header-container{
     background-color:#f3d2c1;
-    border-radius: 40px 0px;
-    width: 1430px;
+    border-radius: 0px 0px 80px 80px;
+    width: 1420;
 }
 .webname{
     display: block;
@@ -108,5 +108,6 @@
     top: -50px;
     padding: 0px;
     border-radius: 50%;
+    border: 1px solid black;
     margin: 0px auto;
 }
