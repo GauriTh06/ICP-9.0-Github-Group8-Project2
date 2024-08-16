@@ -1,0 +1,15 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #fef6e4;
+}
+
+.boy-img{
+    width: 400px;
+    height: 301px;
+}
+
+.hotel-img{
+    height: 400px;
+    width: 450px;
+}
