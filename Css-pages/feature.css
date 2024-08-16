@@ -25,7 +25,7 @@
     padding:  10px 20px;
     border-radius: 20px;
     margin-top: 20px;
-    margin-left: 560px;
+    margin-left: 700px;
     text-decoration: none;
     border: solid 0px;
     color: #fff;
@@ -33,9 +33,10 @@
 .btn:hover{
     text-decoration: underline;
     cursor: pointer;
+    padding: 12px 21px;
 }
 .like-img{
-    margin-left:650px;
+    margin-left:900px;
     padding-top: 5px;
 }
 .share-img{
@@ -52,6 +53,7 @@
 .btn1:hover{
  text-decoration: underline;
  cursor: pointer;
+  padding: 12px 21px;
 }
 h2{
     border-bottom: 2px solid #f582ae; 
