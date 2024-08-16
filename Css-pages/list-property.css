@@ -132,3 +132,9 @@
     box-shadow: 2px 2px 3px 1px gray;
     transition: 1s;
 }
+.posn{
+    position: sticky;
+    top: 30px;
+    width: 200px;
+    margin-left: 30px;
+}
