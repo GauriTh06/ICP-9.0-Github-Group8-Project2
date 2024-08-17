@@ -3,7 +3,12 @@ body{
     padding: 0px;
     background-color: #fef6e4;
 }
-
+.header-color{
+    background-color: #f582ae;
+}
+.main-header-color{
+    background-color: #ffccdd;
+}
 
 .collection-parent-card{
     display: flex;

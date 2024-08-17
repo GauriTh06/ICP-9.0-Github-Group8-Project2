@@ -6,6 +6,12 @@ h2{
     margin-left: 50px;
     width: 1420px;
 }
+.header-color{
+    background-color: #cc9466;
+}
+.main-header-color{
+    background-color:#ecd7c6;
+}
 
 .container
 {
