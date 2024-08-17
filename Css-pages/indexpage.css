@@ -1,4 +1,4 @@
-.building-conatiner{
+.building-conatiner1{
   background: linear-gradient(to right, #e5ccff,#ffb3b3);
   height:300px;
   width:600px;
@@ -40,16 +40,16 @@
  .heading-text{
   margin:-10px 0;
  }
- .building-text{
+ .building-text4{
   display: flex;
   justify-content: space-between;
-  font-size: 20px;
+  
   
   
 
  }
  .Building-img{
-  height:300px ;
+  height:260px ;
   width:380px;
   display: block;
   margin:0 10px;
