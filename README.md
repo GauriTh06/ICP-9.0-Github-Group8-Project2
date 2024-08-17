@@ -22,3 +22,13 @@ We have various pages in this websites are as follows :
 - **Page Link** :[Visit Featured Page](https://icp-9-0-github-group8-project2.vercel.app/Html-pages/featured.html).
 - **Summery Of Page**: This is  subpage of the Rent page . This page information about the  Rent house when they are added ang updated.if you interested then apply next process.
 - **Language Used** : HTML 5 ,css.
+
+## **List Property Page**
+
+![Rent Page Screen Shot]( ./image/list-property.png)
+
+## Information About List Property Page
+
+- **Page Link** : [Visit List Property Page](https://icp-9-0-github-group8-project2.vercel.app/Html-pages/list-property.html).
+- **Summery Of Page** : This is List Property Page.In this page I have added some information about how to list property.Advantages of listing property on our website.And also form for listing property.
+-  **Language Used** : HTML 5 ,CSS.
