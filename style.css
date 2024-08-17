@@ -166,7 +166,6 @@
   {
     font-family: "Montserrat", sans-serif;
   }
-<<<<<<< HEAD
   footer {
     text-align: center;
     padding: 1em 0;
@@ -188,23 +187,7 @@
     padding: 0 1em;
 
 }
-=======
-  .footer-container{
-    background-color: rgba(0, 0, 0, 0.5); 
-    
-    width: 100%;
-    margin: 10px 0;
-    display: block;
->>>>>>> c7b475c48002c4a83be189bd6784c7d76b41d9a2
-
-  }
-  .footer-img{
-    height: 40px;
-    width: 40px;
-    border: none;
-    border-radius: 10px;
-    margin: 0 10px ;
-  }
+  
   .foot-text{
     font-size: 15px;
     color: aliceblue;
