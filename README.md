@@ -29,6 +29,6 @@ We have various pages in this websites are as follows :
 
 ## Information About List Property Page
 
-- **Page Link** : [Visit Rent Page](https://icp-9-0-github-group8-project2.vercel.app/Html-pages/list-property.html).
+- **Page Link** : [Visit List Property Page](https://icp-9-0-github-group8-project2.vercel.app/Html-pages/list-property.html).
 - **Summery Of Page** : This is List Property Page.In this page I have added some information about how to list property.Advantages of listing property on our website.And also form for listing property.
 -  **Language Used** : HTML 5 ,CSS.
