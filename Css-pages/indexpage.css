@@ -242,6 +242,7 @@
   height: 300px;
   width: 400px;
   margin: 5px 90px;
+  border-radius: 10px;
 }
 .news-text{
   margin: 10px 10px;

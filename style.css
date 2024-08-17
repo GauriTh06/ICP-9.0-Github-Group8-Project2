@@ -165,4 +165,10 @@
   {
     font-family: "Montserrat", sans-serif;
   }
+  .footer-container{
+    background-color: #001858;
+    height: 300px;
+    width: 100%;
+
+  }
 
