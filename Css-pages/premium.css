@@ -204,3 +204,25 @@
     border-bottom: 1px dotted white;
     width: 100%;
 }
+.premimum-content-container-sub-conatiner3a
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width:100%;
+    font-size: 17px;
+    font-weight: 600;
+}
+.premimum-content-container-sub-conatiner3a-img-container
+{
+    margin-bottom: 20px;
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+}
+.premimum-content-container-sub-conatiner3a-time-container{
+    background-color:#5DBE74;
+    padding: 0.5px 4px;
+    border-radius: 20px;
+    font-size: 14px;
+}
