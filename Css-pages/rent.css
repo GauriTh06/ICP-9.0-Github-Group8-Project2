@@ -62,7 +62,7 @@ p{
     width: 1400px;
 }
 .feature-card{
-    background-image: url('/image/bachelor.jpeg');
+    background-image: url('../image/bachelor.jpeg');
     background-size: cover;
     text-align:center;
     margin: 5px;
@@ -75,7 +75,7 @@ p{
     border-radius:10px;
 }
 .feature-card1{
-    background-image: url('/image/communicate.jpeg');
+    background-image: url('../image/communicate.jpeg');
     background-size: cover;
     text-align: center;
     margin: 5px;
@@ -87,7 +87,7 @@ p{
     border-radius:10px;
 }
 .feature-card2{
-    background-image: url('/image/owner.jpeg');
+    background-image: url('../image/owner.jpeg');
     background-size: cover;
     text-align: center;
     margin: 5px;
@@ -99,7 +99,7 @@ p{
     border-radius:10px;
 }
 .feature-card3{
-    background-image: url('/image/lightnight.jpeg');
+    background-image: url('../image/lightnight.jpeg');
     background-size: cover;
     text-align: center;
     background-color:#f3d2c1;
