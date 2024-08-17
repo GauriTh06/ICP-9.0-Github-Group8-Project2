@@ -68,7 +68,7 @@ p{
     margin: 5px;
     border-radius: 5px;
     width: 400px;
-    height: 200px; 
+    height: 250px; 
 }
 .feature-card:hover{
     box-shadow: 0 0 10px 1px #f3a4c2;
@@ -216,5 +216,52 @@ a{
    
 }
 .text1{
-    margin-top: 150px;
+    margin-top: 200px;
 }
+.map{
+     margin-left: 50px;
+    align-items: center;
+}
+.Mumbai-Map{
+    margin: 20px 100px;
+    width: 1000px;
+    height: 600px;
+    border-radius: 30px;
+  }
+  .building-conatiner{
+    background: linear-gradient(to right, #f3a4c2,#b09b9b);
+    height:250px;
+    width:600px;
+    padding:20px;
+    border-radius: 30px;
+    display:flex;
+    position: relative;
+    margin: 20px;
+    background-color:#dc8dec;
+    
+    
+  
+  }
+  .footer-img{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    color:#fff;
+  }
+  .building-text{
+    padding-top: 30px;
+    font-size:40px;
+    font-weight: 700;
+  }
+  .building-text1{
+    padding-top: 30px;
+    font-size:30px;
+    font-weight: 700;
+    padding-left:20px;
+  }
+  .building-text2{
+    padding-left:20px;
+    font-size:20px;
+    
+  }
+  
