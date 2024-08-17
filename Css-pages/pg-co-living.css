@@ -15,9 +15,11 @@ body{
     width: 250px;
     border-radius: 20px;
     margin: 20px;
-    position: relative;  
+    position: relative; 
+     
 
 }
+
 
 .boy{
     width: 250px;
@@ -210,7 +212,7 @@ body{
 }
 
 .margin{
-    margin-bottom: 40px;
+    margin-bottom: 50px;
 }
 
 .margin-2{
