@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html >
+<head>
+    
+    <title>Rentify-Hub | Premimum</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400..900;1,400..900&family=Caveat:wght@400..700&family=Dancing+Script:wght@400..700&family=Outfit:wght@100..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400..900;1,400..900&family=Caveat:wght@400..700&family=Dancing+Script:wght@400..700&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Outfit:wght@100..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../Css-pages/premium.css"/>
+    <link rel="stylesheet" href="../style.css"/>
+</head>
+<body class="body">
+    <!-- premimum container start  -->
+     <div class="premimum-inner-container">
+        <!-- premimum header start -->
+        <div class="premimum-header">
+            <div><a href="#" class="text-decoration"><img src="../image/G-8_ICP9.0.jpeg" alt="logo" class="text-decoration premimum-header-logo" /></a></div>
+            <div class="premimum-menu-container">
+                <div class="premimum-menu-sub-container-save">
+                    <a class="text-decoration" href="#"><img src="../image/heart.png" alt="heart-img" />&nbsp;&nbsp;<span>Saved</span></a>
+                </div>
+                <div class="premimum-menu-sub-container">
+                    <a href="#" class="text-decoration">
+                        <img src="../image/hamburger.png" alt="hamburger-img" class="premimum-menu-sub-container-hamberger-img" /> 
+                        <img src="../image/office-man.png" alt="office-man-img" class="premimum-menu-sub-container-hamberger-img" />
+                    </a>
+                </div>
+            </div>
+        </div>
+        <!-- premimum header end -->
+        <!-- premimum content container start -->
+        <div class="premimum-content-container">
+            <!-- premimum content sub container 1 start -->
+            <div class="premimum-content-section1">
+                <div style="display: flex;">
+                    <div class="premimum-content-section1-rent-section text-align">
+                        <a class="premimum-text-color text-decoration"><b>Rent</b></a>
+                    </div>
+                    <div class="premimum-content-section1-rent-sectiona"></div>
+                     <div  class="text-align premimum-content-section1-buy-section">
+                        <a class="text-decoration" ><b>Buy</b></a>
+                    </div>
+                    <div class="premimum-content-section1-buy-sectiona"></div>
+                   
+                </div>
+                <div class="premimum-content-section2">
+                    <div><img src="../image/dimond.png" alt="dimond-img"/></div>
+                    <div  class="premimum-content-section2-content"><span >Rentify Hub</span><br><b>Premium</b></div>
+                </div>
+                <div class="premimum-content-section3">
+                    <div  class="premimum-text-color premimum-content-section3a"><img src="../image/light-bulb.png" alt="light-bulb-img"/>&nbsp;<span><b>What's Premium</b></span></div>
+                    <div  class="premimum-text-color premimum-content-section3b"><img src="../image/faq.png" alt="faq-img"/>&nbsp;<span style="margin-top:3px">FAQ's</span></div>
+                </div>
+            </div>
+           <!-- premimum content sub container 1 end -->
+             <div class="premimum-content-sub-container1">
+                 <!-- premimum content sub container 2 start -->
+                <div class="premimum-content-sub-container2">
+                    <div class="premimum-content-section1-sub-container2">
+                        <div class="premimum-text-color">
+                           <div class="display-flex">
+                                <div><img src="../image/house-key.png" alt="house-key"/></div>
+                                <div style="font-size: 17px;margin-left: 15px;"><b>Hey there!</b><br>
+                                    <p style="color:hsla(0,0%,100%,.5);font-size: 17px;">Get access to many Zero brokerage owner properties</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="premimum-content-section2-sub-container2">
+                        <div class="premimum-text-color" style="margin-right: 10px;">Change plan validity</div>
+                        <div style="padding:10px 15px;border-radius: 8px;background-color: rgba(91, 90, 91, .4);">
+                            <button ><b>45 Days</b></button>
+                            <a class="text-decoration">90 days</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- premimum content sub container 2 end -->
+                 <!-- premimum content sub container 3 start -->
+                    <div class="premimum-text-color" style="display: flex; flex-direction: row;border-bottom: 1px dotted white;width: 100%;">
+                        <div style="width: 40%;position: relative;top:50px">
+                            <div class="display-flex" style="align-items: center;justify-content: space-between;width: 400px;margin-bottom: 20px;">
+                                <img src="../image/discount.png" height="25px" alt="discount-img"/><span><b>Hurry. Purchase a plan before your exclusive discount <br/>expires!</b>&nbsp;<span style="background-color:#5DBE74;padding: 0.5px 4px;border-radius: 20px;font-size: 14px;">19.29</span></span>
+                            </div>
+                            <div style="display: flex;margin-bottom: 20px;">
+                                <div style="border: 1px solid #5DBE74;background-color:#5DBE74;border-radius: 5px;text-align: center;padding:3px 15px;"><b>10%</b></div>
+                                <div style="border: 1px solid #5DBE74; height: 5px;align-self: center;padding:0px 2px;border-right: 0px;border-left: 0px;background-color:#5DBE74;">&nbsp;</div>
+                                <div style="border: 1px solid #5DBE74;background-color:#5DBE74;padding:3px 25px;border-radius: 5px;"></b>30% OFF</b></div>
+                                <div style="border: 1px solid #5DBE74;background-color:#5DBE74; height: 5px;align-self: center;padding:0px 2px;border-right: 0px;border-left: 0px;">&nbsp;</div>
+                                <div style="border: 1px solid #5DBE74;background-color:#5DBE74;padding:3px 0px;border-radius: 6px;border-right:0px;width: 200px;display: flex;">
+                                    <div style="width: 180px;text-align: center;"><b>50% OFF</b></div>
+                                    <div style="transform: scale(1.1,1.420);background-color: #735b72;width: 20px;border-radius:0 6px 6px 0;">&nbsp;</div>
+                                </div>
+                            </div>
+                            <div class="premimum-text-color" style="border: 1px solid white;position: relative; top: 51px;display: flex;flex-direction: column;">
+                                <div style="font-weight: 500;font-size: 22px;margin-bottom: 12.5px;background-color: red;">Zero Brokerage owners contacts</div>
+                                <div style="font-weight: 500;font-size: 22px;margin-bottom: 12.5px;background-color: red;">Priority Customer support</div>
+                                <div style="font-weight: 500;font-size: 22px;margin-bottom: 12.5px;background-color: red;">Instant alerts on new properties</div>
+                                <div style="font-weight: 500;font-size: 22px;margin-bottom: 12.5px;background-color: red;">Dedicated relationship manager</div>
+                            </div>
+                        </div>
+                        <div style="width: 60%; display: flex;">
+                            <div style="display: flex; flex-direction: column;padding: 5px 10px;align-items: center;width: 25%;">
+                                <div style="width: 90px;background-color: #ffc800;color: black;padding: 1px 0px;text-align: center;padding: 2px 5px;font-size: 14px;border-radius: 4px;margin-bottom: 11px;"><b>Instant Trial Plan</b></div>
+                                <div style="width: 22px;border-radius: 50%;height: 22px;cursor: pointer;border: 2px solid #985c7e;margin-bottom: 10px;">
+                                    &nbsp;
+                                </div>
+                                <div style="margin-bottom: 10px;"><img src="../image/handshake.png" width="55px" height="55px" style="border-radius: 50%;padding:5px;background-color: rgba(91, 90, 91, .4)" alt="discount-img"/></div>
+                                <div style="font-weight: 500;font-size: 22px;margin-bottom: 10px;">Sachet</div>
+                                <div style="font-weight: 500;font-size: 22px;margin-bottom: 10px;background-color: red;">5</div>
+                                <div style="font-weight: 500;font-size: 22px;margin-bottom: 10px;color:hsla(0, 0%, 100%, .2);">&#x2716;</div>
+                                <div style="font-weight: 500;font-size: 22px;margin-bottom: 10px;color:hsla(0, 0%, 100%, .2);">&#x2716;</div>
+                                <div style="font-weight: 500;font-size: 22px;margin-bottom: 10px;color:hsla(0, 0%, 100%, .2);">&#x2716;</div>
+                                <div style="font-weight: 500;font-size: 28px;margin-bottom: 10px;"><img src="../image/rupee.png" height="22px" alt="rupee-img"/>&nbsp;400</div>
+                                <div style="font-weight: 500;font-size: 18px;margin-bottom: 10px;"><img src="../image/rupee.png" height="15px" alt="rupee-img"/>&nbsp;&nbsp;<del>998</del></div>
+                                <div style="font-weight: 500;font-size: 19px;margin-bottom: 10px;color: #fff8;display: flex;align-items: center;">+ 18% GST<img src="../image/information.png" height="25px" /></div>
+                            </div>
+                            <div style="display: flex; flex-direction: column;padding: 5px 10px;align-items: center;width: 25%;">
+                                <div style="width: 90px;height: 47.8px;"></div>
+                                <div style="width: 22px;border-radius: 50%;height: 22px;cursor: pointer;border: 2px solid #985c7e;margin-bottom: 10px;">
+                                    &nbsp;
+                                </div>
+                                <div style="margin-bottom: 10px;"><img src="../image/personal-connection.png" width="55px" height="55px" style="border-radius: 50%;padding:5px;background-color: rgba(91, 90, 91, .4)" alt="discount-img"/></div>
+                                <div style="font-weight: 500;font-size: 22px;margin-bottom: 10px;">Connect</div>
+                                <div style="font-weight: 500;font-size: 22px;margin-bottom: 10px;">15</div>
+                                <div style="font-weight: 700;font-size: 22px;margin-bottom: 10px;">&#x2714;</div>
+                                <div style="font-weight: 700;font-size: 22px;margin-bottom: 10px;">&#x2714;</div>
+                                <div style="font-weight: 700;font-size: 22px;margin-bottom: 10px;color:hsla(0, 0%, 100%, .2);">&#x2716;</div>
+                                <div style="font-weight: 500;font-size: 28px;margin-bottom: 10px;"><img src="../image/rupee.png" height="22px" alt="rupee-img"/>&nbsp;999</div>
+                                <div style="font-weight: 500;font-size: 18px;margin-bottom: 10px;"><img src="../image/rupee.png" height="15px" alt="rupee-img"/>&nbsp;&nbsp;<del>1998</del></div>
+                                <div style="font-weight: 500;font-size: 19px;margin-bottom: 10px;color: #fff8;display: flex;align-items: center;">+ 18% GST<img src="../image/information.png" height="25px" /></div>
+                            </div>
+                            <div style="display: flex; flex-direction: column;padding: 5px 10px;align-items: center;width: 25%;background-color:  hsla(0,0%,100%,.2);">
+                                <div style="width: 90px;height: 47.8px;"></div>
+                                <div style="width: 22px;border-radius: 50%;height: 22px;cursor: pointer;border: 2px solid #f53193;margin-bottom: 10px;background-color: #f53193;text-align: center;">
+                                    &#x2714;
+                                </div>
+                                <div style="margin-bottom: 10px;"><img src="../image/personal-connection.png" width="55px" height="55px" style="border-radius: 50%;padding:5px;background-color: rgba(91, 90, 91, .4)" alt="discount-img"/></div>
+                                <div style="font-weight: 500;font-size: 22px;margin-bottom: 10px;">Connect +</div>
+                                <div style="font-weight: 500;font-size: 22px;margin-bottom: 10px;">25</div>
+                                <div style="font-weight: 700;font-size: 22px;margin-bottom: 10px;">&#x2714;</div>
+                                <div style="font-weight: 700;font-size: 22px;margin-bottom: 10px;">&#x2714;</div>
+                                <div style="font-weight: 700;font-size: 22px;margin-bottom: 10px;color:hsla(0, 0%, 100%, .2);">&#x2716;</div>
+                                <div style="font-weight: 500;font-size: 28px;margin-bottom: 10px;"><img src="../image/rupee.png" height="22px" alt="rupee-img"/>&nbsp;1299</div>
+                                <div style="font-weight: 500;font-size: 18px;margin-bottom: 10px;"><img src="../image/rupee.png" height="15px" alt="rupee-img"/>&nbsp;&nbsp;<del>2598</del></div>
+                                <div style="font-weight: 500;font-size: 19px;margin-bottom: 10px;color: #fff8;display: flex;align-items: center;">+ 18% GST<img src="../image/information.png" height="25px" /></div>
+                            </div>
+                            <div style="display: flex; flex-direction: column;padding: 5px 10px;align-items: center;width: 25%;">
+                                <div style="width: 90px;height: 47.8px;"></div>
+                                <div style="width: 22px;border-radius: 50%;height: 22px;cursor: pointer;border: 2px solid #985c7e;margin-bottom: 10px;">
+                                    &nbsp;
+                                </div>
+                                <div style="margin-bottom: 10px;"><img src="../image/seller.png" width="55px" height="55px" style="border-radius: 50%;padding:5px;background-color: rgba(91, 90, 91, .4)" alt="discount-img"/></div>
+                                <div style="font-weight: 500;font-size: 22px;margin-bottom: 10px;">Relax</div>
+                                <div style="font-weight: 500;font-size: 22px;margin-bottom: 10px;">50</div>
+                                <div style="font-weight: 700;font-size: 22px;margin-bottom: 10px;">&#x2714;</div>
+                                <div style="font-weight: 700;font-size: 22px;margin-bottom: 10px;">&#x2714;</div>
+                                <div style="font-weight: 700;font-size: 22px;margin-bottom: 10px;">&#x2714;</div>
+                                <div style="font-weight: 500;font-size: 28px;margin-bottom: 10px;"><img src="../image/rupee.png" height="22px" alt="rupee-img"/>&nbsp;1999</div>
+                                <div style="font-weight: 500;font-size: 18px;margin-bottom: 10px;"><img src="../image/rupee.png" height="15px" alt="rupee-img"/>&nbsp;&nbsp;<del>3998</del></div>
+                                <div style="font-weight: 500;font-size: 19px;margin-bottom: 10px;color: #fff8;display: flex;align-items: center;">+ 18% GST<img src="../image/information.png" height="25px" /></div>
+                            </div>
+                        </div>
+                    </div>
+                  <!-- premimum content sub container 3 end -->
+                <!-- premimum content sub container 4 start  -->
+                 <div style="display: flex;" class="premimum-text-color">
+                    <div style="width: 70%;">
+                        <p>Apply cupon</p>
+                        <p>Pay</p>
+                    </div>
+                    <div style="width: 30%;">
+                        <p>Get</p>
+                        <p>Buy relax</p>
+                    </div>
+                 </div>
+                 <!-- premimum content sub container 4 end  -->
+             </div>
+             
+              
+               
+               
+
+        </div>
+        <!-- premimum content container end -->
+     </div>
+     <!-- premimum container end -->
+    
+</body>
+</html>

@@ -200,3 +200,7 @@
     color:hsla(0,0%,100%,.5);
     cursor: pointer;
 }
+.premimum-content-container-sub-conatiner3{
+    border-bottom: 1px dotted white;
+    width: 100%;
+}
