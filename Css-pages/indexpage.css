@@ -1,4 +1,4 @@
-.building-conatiner{
+.building-conatiner1{
   background: linear-gradient(to right, #e5ccff,#ffb3b3);
   height:300px;
   width:600px;
@@ -40,7 +40,7 @@
  .heading-text{
   margin:-10px 0;
  }
- .building-text{
+ .building-text4{
   display: flex;
   justify-content: space-between;
   
@@ -49,7 +49,7 @@
 
  }
  .Building-img{
-  height:300px ;
+  height:260px ;
   width:380px;
   display: block;
   margin:0 10px;
@@ -232,7 +232,28 @@
  margin:10px 20px;
  box-shadow: 5px 5px 5px #cccccc;
 }
+.Mumbai-Map{
+  margin: 20px 100px;
+  width: 1000px;
+  height: 600px;
+  border-radius: 30px;
+}
+.image-news{
+  height: 300px;
+  width: 400px;
+  margin: 5px 90px;
+  border-radius: 10px;
+}
+.news-text{
+  margin: 10px 10px;
+  font-size: 20px;
+  font-weight: 500;
+  
+}
+.news-container{
+  display: flex;
 
+}
 
   
   

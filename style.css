@@ -27,7 +27,7 @@
   {
     width:1420px ;
     height: 50px;
-    background-color:#ff9999;
+    background-color:#ff9999 ;
     backdrop-filter: blur(10px);
     display:flex;
   }
@@ -53,6 +53,7 @@
     align-items: end;
     margin:20px;
     padding:10px;
+    position: relative;
     
 
   }
@@ -165,4 +166,51 @@
   {
     font-family: "Montserrat", sans-serif;
   }
+<<<<<<< HEAD
+  footer {
+    text-align: center;
+    padding: 1em 0;
+    background-color:#f3d2c1;
+    color: black;
+    border:0px solid ;
+    width: 1500px;
+    margin-left: 25px;
+    
 
+}
+.table-container
+{
+    padding: 0 10px;
+    margin: 1px;
+}
+.footer-container {
+    margin: 0 auto;
+    padding: 0 1em;
+
+}
+=======
+  .footer-container{
+    background-color: rgba(0, 0, 0, 0.5); 
+    
+    width: 100%;
+    margin: 10px 0;
+    display: block;
+>>>>>>> c7b475c48002c4a83be189bd6784c7d76b41d9a2
+
+  }
+  .footer-img{
+    height: 40px;
+    width: 40px;
+    border: none;
+    border-radius: 10px;
+    margin: 0 10px ;
+  }
+  .foot-text{
+    font-size: 15px;
+    color: aliceblue;
+    font-weight: 300;
+    font-style: normal;
+  }
+.footer-child-container{
+  display: flex;
+}
