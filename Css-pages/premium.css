@@ -232,3 +232,42 @@
     align-items: center;
     width: 100%;
 }
+.premimum-content-container-sub-conatiner3a-discount-sub{
+    border: 1px solid #5DBE74;
+    background-color:#5DBE74;
+    padding:2px 2px;
+    text-align: center;
+    border-radius: 6px;
+}
+.premimum-content-container-sub-conatiner3a-discount-sub-line{
+    border: 1px solid #5DBE74; 
+    height: 5px;
+    padding:0px 2px;
+    border-right: 0px;
+    border-left: 0px;
+    background-color:#5DBE74;
+    width: 1%;
+}
+.premimum-content-container-sub-conatiner3a-discount-bar2{
+    border: 1px solid #5DBE74;
+    background-color:#5DBE74;
+    width: 30%;
+    padding:2px 2px;
+    border-radius: 6px;
+    text-align: center;
+}
+.premimum-content-container-sub-conatiner3a-discount-bar3{
+    border: 1px solid #5DBE74;
+    background-color:#5DBE74;
+    border-radius: 6px;
+    border-right:0px;
+    display: flex;
+    width:55%;
+}
+.premimum-content-container-sub-conatiner3a-discount-bar3-section2{
+    transform: scaleY(1.06);
+    background-color: #735b72;
+    border-radius:0 6px 6px 0;
+    width: 70%;
+    padding:2px 2px;
+}
