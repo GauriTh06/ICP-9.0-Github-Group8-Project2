@@ -18,6 +18,7 @@ We have various pages in this websites are as follows :
 
 ![Featured Page Screen Shot](./image/featuredpage-img.png)
 ## Information About Featured page
--**Page Link** :[Visit Featured Page](https://icp-9-0-github-group8-project2.vercel.app/Html-pages/featured.html)
--**Summery Of Page**: This is  subpage of the Rent page . This page information about the  Rent house when they are added ang updated.if you interested then apply next process.
+
+- **Page Link** :[Visit Featured Page](https://icp-9-0-github-group8-project2.vercel.app/Html-pages/featured.html).
+- **Summery Of Page**: This is  subpage of the Rent page . This page information about the  Rent house when they are added ang updated.if you interested then apply next process.
 - **Language Used** : HTML 5 ,css.
