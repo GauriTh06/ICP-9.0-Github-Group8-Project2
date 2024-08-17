@@ -166,7 +166,6 @@
   {
     font-family: "Montserrat", sans-serif;
   }
-<<<<<<< HEAD
   footer {
     text-align: center;
     padding: 1em 0;
@@ -174,30 +173,18 @@
     color: black;
     border:0px solid ;
     width: 1500px;
-    margin-left: 25px;
-    
+    margin: none;
 
 }
-.table-container
-{
-    padding: 0 10px;
-    margin: 1px;
-}
+
 .footer-container {
-    margin: 0 auto;
-    padding: 0 1em;
-
-}
-=======
-  .footer-container{
-    background-color: rgba(0, 0, 0, 0.5); 
-    
     width: 100%;
-    margin: 10px 0;
-    display: block;
->>>>>>> c7b475c48002c4a83be189bd6784c7d76b41d9a2
+    height: 40px;
+    
+    
+}
 
-  }
+  
   .footer-img{
     height: 40px;
     width: 40px;
@@ -206,11 +193,38 @@
     margin: 0 10px ;
   }
   .foot-text{
-    font-size: 15px;
-    color: aliceblue;
+    font-size: 20px;
+    color:#001858;
     font-weight: 300;
     font-style: normal;
+    text-align: left;
+    margin: 10px;
+    padding: 10px;
+    align-items: center;
+
   }
 .footer-child-container{
   display: flex;
+}
+
+
+.footer-child-container2{
+  display:flex;
+  margin: 10px 10px;
+  color:#001858;
+ font-size: 30px;
+ font-weight: 400;
+}
+.Logo-image2{
+  margin-top: 8px;
+  margin-bottom: 2px;
+  margin-left: 10px;
+  margin-right:2px; 
+  he
+}
+.color{
+color: #f582ae ;
+font-size: 30px;
+font-weight: 400;
+margin:10px 10px;
 }
