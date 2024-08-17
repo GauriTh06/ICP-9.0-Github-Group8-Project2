@@ -53,6 +53,7 @@
     align-items: end;
     margin:20px;
     padding:10px;
+    position: relative;
     
 
   }
@@ -165,4 +166,27 @@
   {
     font-family: "Montserrat", sans-serif;
   }
+  .footer-container{
+    background-color: rgba(0, 0, 0, 0.5); 
+    
+    width: 100%;
+    margin: 10px 0;
+    display: block;
 
+  }
+  .footer-img{
+    height: 40px;
+    width: 40px;
+    border: none;
+    border-radius: 10px;
+    margin: 0 10px ;
+  }
+  .foot-text{
+    font-size: 15px;
+    color: aliceblue;
+    font-weight: 300;
+    font-style: normal;
+  }
+.footer-child-container{
+  display: flex;
+}
