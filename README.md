@@ -32,3 +32,13 @@ We have various pages in this websites are as follows :
 - **Page Link** : [Visit List Property Page](https://icp-9-0-github-group8-project2.vercel.app/Html-pages/list-property.html).
 - **Summery Of Page** : This is List Property Page.In this page I have added some information about how to list property.Advantages of listing property on our website.And also form for listing property.
 -  **Language Used** : HTML 5 ,CSS.
+-  
+## **PG/Co-living Page**
+
+![PG/Co-living Page Screen Shot]( ./image/pg-coliving-ss.png)
+
+## Information About PG/Co-living Page
+
+- **Page Link** : [Visit PG/Co-living Page](https://icp-9-0-github-group8-project2.vercel.app/Html-pages/pg-co-living.html).
+- **Summery Of Page** : This is PG/Co-living Page.In this page I have added some information about pg and coliving rooms,benifits of pg and coliving.
+-  **Language Used** : HTML 5 ,CSS.
