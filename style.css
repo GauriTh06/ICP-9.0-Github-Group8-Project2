@@ -27,7 +27,7 @@
   {
     width:1420px ;
     height: 50px;
-    background-color:#ff9999;
+    background-color:#ff9999 ;
     backdrop-filter: blur(10px);
     display:flex;
   }
