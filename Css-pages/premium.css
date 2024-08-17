@@ -226,3 +226,9 @@
     border-radius: 20px;
     font-size: 14px;
 }
+.premimum-content-container-sub-conatiner3a-discount{
+    display: flex;
+    margin-bottom: 20px;
+    align-items: center;
+    width: 100%;
+}
