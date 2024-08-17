@@ -1,0 +1,79 @@
+.Container{
+    display: flex;
+    flex-direction: row;
+    padding:0px 10px;
+    border: hsl(20, 50%, 80%) solid 2px;
+    margin: 20px;
+    border-radius: 25px;
+    background-color:#f3d2c1;
+    box-shadow: 0 0 10px 0px #f582ae;
+}
+.Container:hover{
+    box-shadow: 0 0 10px 0px #f582ae;
+}
+.img{
+    width: 300px;
+    border-radius: 2cap;
+    margin-top: 20px;
+    padding: 10px;
+}
+.feature{
+    padding: 0px 10px;
+}
+.btn{
+    margin-left: 10px;
+    padding:  10px 20px;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-left: 700px;
+    text-decoration: none;
+    border: solid 0px;
+    color: #fff;
+}
+.btn:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    padding: 12px 21px;
+}
+.like-img{
+    margin-left:900px;
+    padding-top: 5px;
+}
+.share-img{
+    margin-left: 30px;
+    padding-top: 5px;
+}
+.btn1{
+    margin-left: 30px;
+    padding:  10px 20px;
+    border-radius: 20px;
+    border: solid 0px;
+    color: #fff;
+}
+.btn1:hover{
+ text-decoration: underline;
+ cursor: pointer;
+  padding: 12px 21px;
+}
+h2{
+    border-bottom: 2px solid #f582ae; 
+    padding: 0px 10px;
+    margin:10px;
+}
+.main-header{
+    margin: 10px;
+    padding:  0px 10px;
+    
+}
+.maincard-container{
+    border: 2px solid #e6c5b4;
+    border-radius: 20px;
+   
+    margin-left: 50px;
+    width: 1420px;
+    margin-right: 10px;
+    
+}
+p{
+    font-family: "Montserrat", sans-serif;
+}
