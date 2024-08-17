@@ -342,3 +342,28 @@
     position: absolute;
     padding:1px 6px;top: -10px;
 }
+.premimum-content-container-sub-conatiner3b{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: rgba(91, 90, 91, 0.16);
+    align-items: center;
+    width: 100%;
+    margin-bottom: 20px;
+    padding:10px 0px;
+    font-size: 17px;
+    font-weight: 600;
+}
+.premimum-content-container-sub-conatiner3b-content{
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.premimum-content-container-sub-conatiner3b-overlap{
+    position: relative;
+    z-index: 2;
+}
+.premimum-content-container-sub-conatiner3b-cross-color{
+    color:hsla(0, 0%, 100%, .2);
+}
