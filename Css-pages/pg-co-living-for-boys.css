@@ -5,6 +5,8 @@ body{
 }
 
 .parent-card{
+    position: relative;
+    top: 50px;
     background-color: #f3d2c1;
     height: 300px;
     
@@ -131,4 +133,10 @@ body{
     font-family: cursive;
     cursor: pointer;
 
+}
+
+.room-text-3{
+    z-index: 10;
+    position: fixed;
+    top: 0%;
 }
