@@ -35,6 +35,7 @@ body
     position: fixed;
     z-index: 9;
     
+    
   }
   
   .Logo-image{
@@ -57,9 +58,10 @@ body
   .top-right-header-container{
     display: flex;
     align-items: end;
-    margin:20px;
+    margin:10px 10px;
     padding:10px;
-    position: relative;
+    
+    align-items: center;
     
 
   }
@@ -70,15 +72,15 @@ body
     font-size: 20px;
     border: none;
     border-radius: 40px;
-    margin: -10px 30px;
-    padding: 4px;
-    padding-left: 30px;
-    padding-right: 30px;
+    margin: 10px 30px;
+    padding: 3px;
+    padding-left: 25px;
+    padding-right: 25px;
+    align-items: center;
     
-    
-
-    
-    
+  }
+  .crown-img{
+    align-items: center;
   }
   .premium-button-text{
     align-items: center;
