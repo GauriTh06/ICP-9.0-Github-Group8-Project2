@@ -1,0 +1,69 @@
+body {
+  background-color: #fef6e4;
+}
+.main_container {
+  background: linear-gradient(to right, #e5ccff, #ffb3b3);
+  display: flex;
+  height: 300px;
+  width: 800px;
+  border: none;
+  border-radius: 20px;
+  position: relative;
+  margin-left: 300px;
+  margin-top: 20px;
+}
+.corner_plot_card {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.corner_plot_img {
+  cursor: pointer;
+  border: none;
+  border-radius: 20px 20px 20px;
+  height: 270px;
+  width: 260px;
+  display: block;
+  margin: 10px;
+}
+.corner-plot_info {
+  display: block;
+  margin-left: 20px;
+}
+.text-font-style {
+  font-size: 30px;
+}
+.plot_info {
+  background-color: white;
+  width: 490px;
+  height: 100px;
+  margin-top: 30px;
+  border: none;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+.text_color {
+  color: gray;
+}
+
+.plot_info_block {
+  background-color: #f2f2f2;
+  border: none;
+  border-radius: 4px;
+  margin-top: 10px;
+  margin-left: 3px;
+  width: 140px;
+  height: 80px;
+}
+.text_center {
+  display: block;
+  margin: 13px;
+}
+
+.second-child {
+  background-color: purple;
+}
+.hyperlink {
+  text-decoration: none;
+}
