@@ -536,3 +536,11 @@
 .secondary-text-color{
     color: hsla(0, 0%, 100%, .5);
 }
+
+.text-decoration{
+    text-decoration: none;
+}
+
+.text-align{
+text-align: center;
+}
