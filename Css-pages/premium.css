@@ -523,3 +523,6 @@
     height: 40px;
     width: 40px;
 }
+.secondary-text-color{
+    color: hsla(0, 0%, 100%, .5);
+}
