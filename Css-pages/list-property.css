@@ -163,3 +163,45 @@
     color: #66a3ff;
     cursor: pointer;
 }
+
+
+/*Desktop*/
+@media screen and(min-width:769px)
+{
+    
+}
+
+/*Mobile*/
+@media screen and (max-width:500px)
+{
+    .card-container{
+        padding: 10px;
+        align-items: center;
+        display: flex;
+        flex-direction: row;
+        margin-left: 15px;
+    }
+    .card{
+        width: 400px;
+        display: flex;
+        align-items: center;
+        
+    }
+    .heading-text{
+        font-size: 30px;
+       
+    } 
+    .image{
+        height: 70px;
+        margin-right: 10px;
+    }
+    .building-image{
+       display: none;
+    }  
+}
+
+/*Tablet*/
+@media screen and (min-width:501) and (max-width:768px) 
+{
+    
+}
