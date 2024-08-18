@@ -354,6 +354,17 @@
     font-size: 17px;
     font-weight: 600;
 }
+.premimum-content-container-sub-conatiner3b-sections{
+    width: 40%;
+    display: flex;
+    align-items: center;
+}
+.premimum-content-container-sub-conatiner3b-sections img{
+    height: 20px;
+    width: 20px;
+    margin: 0px 8px;
+}
+
 .premimum-content-container-sub-conatiner3b-content{
     width: 15%;
     display: flex;
@@ -482,7 +493,6 @@
     display: flex;
     flex-direction: row;
     position: relative;
-    margin-bottom: 25px;
 }
 .featured-card{
     width: 300px;
