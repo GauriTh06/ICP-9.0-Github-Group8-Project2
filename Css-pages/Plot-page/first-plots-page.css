@@ -14,8 +14,11 @@ body {
   margin-left: 70px;
   border-radius: 20px;
 }
+.cards_container:hover {
+  border: 1px solid purple;
+}
 .card:hover {
-  box-shadow: 2px 2px 1px 2px white;
+  box-shadow: 2px 2px 1px 0px white;
   transition: 0.55s;
 }
 .dec_none {
