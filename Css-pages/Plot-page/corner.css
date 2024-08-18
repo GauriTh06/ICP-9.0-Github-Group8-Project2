@@ -1,0 +1,100 @@
+body {
+  background-color: #fef6e4;
+}
+.parent {
+  display: flex;
+}
+.ch2 {
+  position: fixed;
+  background: linear-gradient(to right, #e5ccff, #ffb3b3);
+  width: 480px;
+  height: 400px;
+  margin-top: 20px;
+  margin-left: 850px;
+  border: none;
+  border-radius: 10px;
+}
+.land-house {
+  width: 480px;
+  margin-top: 90px;
+  margin-left: 0px;
+  position: fixed;
+}
+.fixed_para {
+  position: fixed;
+  color: purple;
+  margin-left: 130px;
+  text-align: center;
+
+  font-size: 20px;
+}
+.main_container {
+  background: linear-gradient(to right, #e5ccff, #ffb3b3);
+  display: flex;
+  height: 300px;
+  width: 800px;
+  border: none;
+  border-radius: 20px;
+  position: relative;
+  margin-left: 30px;
+  margin-top: 20px;
+}
+.main_container:hover {
+  border: 1px solid palevioletred;
+  box-shadow: 7px 7px 7px 4px gray;
+}
+.corner_plot_card {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.corner_plot_img {
+  cursor: pointer;
+  border: none;
+  border-radius: 20px 20px 20px;
+  height: 270px;
+  width: 260px;
+  display: block;
+  margin: 10px;
+}
+.corner-plot_info {
+  display: block;
+  margin-left: 20px;
+}
+.text-font-style {
+  font-size: 30px;
+}
+.plot_info {
+  background-color: white;
+  width: 490px;
+  height: 100px;
+  margin-top: 30px;
+  border: none;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+.text_color {
+  color: gray;
+}
+
+.plot_info_block {
+  background-color: #f2f2f2;
+  border: none;
+  border-radius: 4px;
+  margin-top: 10px;
+  margin-left: 3px;
+  width: 140px;
+  height: 80px;
+}
+.text_center {
+  display: block;
+  margin: 13px;
+}
+
+.second-child {
+  background-color: purple;
+}
+.hyperlink{
+  text-decoration: none;
+}
