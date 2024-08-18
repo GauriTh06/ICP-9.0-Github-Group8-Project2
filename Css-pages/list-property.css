@@ -17,6 +17,11 @@
     padding: 30px ;
     border-radius: 30px;
 }
+.form-container:hover{
+    box-shadow: -4px -2px 3px 1px gray;
+    border-radius: 10px;
+    transition: 0.5s;
+}
 .form-text{
     font-size: 23px;
 }
