@@ -14,7 +14,8 @@
 
 }
 .premimum-header-logo{
-    height: 18px;
+    height: 40px;
+    width: 40px;
 }
 .premimum-menu-container{
     display: flex;
