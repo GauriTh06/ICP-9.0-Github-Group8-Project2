@@ -1,6 +1,30 @@
 body {
   background-color: #fef6e4;
 }
+.parent {
+  display: flex;
+}
+.ch2 {
+  position: fixed;
+  background: linear-gradient(to right, #e5ccff, #ffb3b3);
+  width: 480px;
+  height: 400px;
+  margin-top: 20px;
+  margin-left: 850px;
+  border: none;
+  border-radius: 10px;
+}
+.land-house {
+  width: 480px;
+  margin-top: 90px;
+  margin-left: 0px;
+  position: fixed;
+}
+.fixed_para {
+  text-align: center;
+  position: fixed;
+  font-size: 20px;
+}
 .main_container {
   background: linear-gradient(to right, #e5ccff, #ffb3b3);
   display: flex;
@@ -9,7 +33,7 @@ body {
   border: none;
   border-radius: 20px;
   position: relative;
-  margin-left: 300px;
+  margin-left: 30px;
   margin-top: 20px;
 }
 .corner_plot_card {
