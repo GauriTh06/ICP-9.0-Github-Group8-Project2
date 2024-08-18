@@ -89,6 +89,11 @@ body{
     width: fit-content;
     padding: 10px;
     box-shadow: 0px 0px 10px 0px #ababab;
+
+    &:hover{
+        box-shadow: 0px 0px 10px 3px #ababab; 
+        transition: 0.2s;
+    }
 }
 
 .room-img{
