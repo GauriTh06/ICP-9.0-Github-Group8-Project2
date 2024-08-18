@@ -1,8 +1,9 @@
-.body
+body
 {
     background-color:#fef6e4 ;
     margin:0;
     padding:0;
+    font-family: "Montserrat", sans-serif;
 }
 
 .button
@@ -14,7 +15,7 @@
 .header-main-container
   {
     height: 500px;
-    width: 1420px;
+    width: 1430px;
     background-color:#f3d2c1;
     margin-top: none;
     margin-left: 50px;
@@ -26,7 +27,7 @@
   }
 .header-taskbar-container
   {
-    width:1320px;
+    width:1430px;
     height:50px;
     background-color:#ff9999;
     backdrop-filter: blur(10px);
@@ -69,10 +70,14 @@
     font-size: 20px;
     border: none;
     border-radius: 40px;
-    margin:-10px 20px;
+    margin: -10px 30px;
     padding: 4px;
     padding-left: 30px;
     padding-right: 30px;
+    
+    
+
+    
     
   }
   .premium-button-text{
