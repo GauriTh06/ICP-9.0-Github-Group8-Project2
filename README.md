@@ -6,15 +6,18 @@ Website URL : [visit our website](https://icp-9-0-github-group8-project2.vercel.
 We have various pages in this websites are as follows :
 
   <h2>**Index Page**<h2>
-![Index Page Screen Shot](/image/index-page-1.png) 
+
+ ![Index Page Screen Shot](/image/index-page-1.png)
 
    ## Information About Index Page
+
+
   - **Page Link** : [Visit Index Page](https://icp-9-0-github-group8-project2.vercel.app/index.html).
 
  **Summery Of Page** : This is Index Page.This is index page were you can find all information about the Renting apartments, house,Pg etc,So that is will be easy for many people to find the rent places.All the projects which are in progress are also mentioned here.What are all the facilities provided in the house are given.
 
- 
-[Project-In-Focus Page Screen Shot](/image/Project-In-Focus-ss.png) 
+
+![Project-In-Focus Page Screen Shot](/image/Project-In-Focus-ss.png) 
  ## Information About Project-In-Focus Page
  - **Page Link** : [Visit Index Page](https://icp-9-0-github-group8-project2.vercel.app/Html-pages/Project-In_Focus.html).
  **Summery Of Page**:-This is Project-In-Focus Page were all the facilities that are been provided in perticular apartments that are mentioned here.The slot booking form is also provided so that user whenever want to book appointed can book it.
