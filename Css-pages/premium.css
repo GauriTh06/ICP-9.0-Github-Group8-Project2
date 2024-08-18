@@ -512,6 +512,10 @@
     margin: 10px;
     font-size: 18px;
 }
+.featured-card-section1{
+    display: flex;
+    justify-content: space-between;
+}
 .arrow-left{
     position: absolute;
     top:47%;
@@ -551,4 +555,7 @@
 
 .text-align{
 text-align: center;
+}
+.margin-bottom{
+    margin-bottom: 10px;
 }
