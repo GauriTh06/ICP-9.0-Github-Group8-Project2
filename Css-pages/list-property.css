@@ -99,9 +99,14 @@
     border: 1px solid black;
     margin: 30px 30px;
     margin-top: 50px;
+    border-radius: 20px;
     position: relative;
     padding: 110px 10px 10px 10px;
     text-align: center;
+}
+.testimonial-card:hover{
+    background-color: antiquewhite;
+    box-shadow: 4px 4px 3px 2px gray;
 }
 .customer-img{
     position: absolute;
@@ -134,6 +139,7 @@
 .advantage-marketing-container:hover{
     box-shadow: 2px 2px 3px 1px gray;
     transition: 1s;
+    border-radius: 20px;
 }
 .posn{
     position: sticky;
