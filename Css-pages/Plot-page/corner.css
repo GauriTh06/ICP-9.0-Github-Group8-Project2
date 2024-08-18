@@ -21,9 +21,13 @@ body {
   position: fixed;
 }
 .fixed_para {
-  text-align: center;
   position: fixed;
+  color: purple;
+  margin-left: 130px;
+  text-align: center;
+
   font-size: 20px;
+  
 }
 .main_container {
   background: linear-gradient(to right, #e5ccff, #ffb3b3);
