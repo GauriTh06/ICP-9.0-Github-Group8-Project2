@@ -288,7 +288,7 @@
     border-radius: 4px;
     position: absolute;
     padding:0px 5px;
-    top: -25px;
+    top: -40px;
 }
 .premimum-content-container-sub-conatiner3a-section1-image{
     border-radius: 50%;
@@ -332,16 +332,17 @@
     z-index: -1;
     bottom: 0;
     top: 0;
-    height: 579px;
+    height: 595px;
 }
 .premimum-content-container-sub-conatiner3a-section3-pop-box
 {
-    width: 100px;
+    width: 130px;
     background-color: #f53193;
     text-align: center;
     border-radius: 4px;
     position: absolute;
-    padding:1px 6px;top: -10px;
+    padding: 2px 6px;
+    top: -12px;
 }
 .premimum-content-container-sub-conatiner3b{
     display: flex;
