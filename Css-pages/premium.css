@@ -371,6 +371,14 @@
     flex-direction: column;
     text-align: center;
 }
+.premimum-content-container-sub-conatiner3b-content-price{
+    font-weight: 500;
+    font-size: 28px;
+}
+.premimum-content-container-sub-conatiner3b-content-delete-price{
+    font-weight: 500;
+    font-size: 18px;
+}
 .gst-container{
     font-weight: 500;
     font-size: 19px;
