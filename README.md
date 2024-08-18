@@ -4,7 +4,7 @@ You can explore all possible Rent Houses Here..
 Website URL : [visit our website](https://icp-9-0-github-group8-project2.vercel.app/)
 
 We have various pages in this websites are as follows :
- <h3> **Index Page**</h3>
+  **Index Page**
 ![Index Page Screen Shot](/image/index-page-1.png) 
 
    ## Information About Index Page
@@ -19,7 +19,7 @@ We have various pages in this websites are as follows :
 - **Rent Page**
 
 
-<h3>**Rent Page**</h3>
+**Rent Page**
 
 ![Rent Page Screen Shot]( ./image/rentpage-img.png)
 
@@ -35,7 +35,7 @@ We have various pages in this websites are as follows :
 - **Summery Of Page**: This is  subpage of the Rent page . This page information about the  Rent house when they are added ang updated.if you interested then apply next process.
 - **Language Used** : HTML 5 ,css.
 
-<h3> **List Property Page**</h3>
+ **List Property Page**
 
 ![Rent Page Screen Shot]( ./image/list-property.png)
 
@@ -45,7 +45,7 @@ We have various pages in this websites are as follows :
 - **Summery Of Page** : This is List Property Page.In this page I have added some information about how to list property.Advantages of listing property on our website.And also form for listing property.
 -  **Language Used** : HTML 5 ,CSS.
 -  
-<h3> **PG/Co-living Page**</h3>
+**PG/Co-living Page**
 
 ![PG/Co-living Page Screen Shot]( ./image/pg-coliving-ss.png)
 
