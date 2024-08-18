@@ -248,10 +248,10 @@ a{
     
   
   }
-  .footer-img{
+  .footer-img1{
     display:flex;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: start;
     color:#fff;
   }
   .building-text{
