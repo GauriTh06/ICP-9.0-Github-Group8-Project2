@@ -62,7 +62,7 @@ We have various pages in this websites are as follows :
 
 **Plots Page**
 
-![Plots Page Screen Shot](./image/plot-scr.png)
+![Plots Page Screen Shot](./image/plots-scr.png)
 
 ## Information About Plots Page
 
