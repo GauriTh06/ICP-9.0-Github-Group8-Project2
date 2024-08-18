@@ -26,9 +26,9 @@
   }
 .header-taskbar-container
   {
-    width:1420px ;
-    height: 50px;
-    background-color:#ff9999 ;
+    width:1320px;
+    height:50px;
+    background-color:#ffbb99;
     backdrop-filter: blur(10px);
     display:flex;
     position: fixed;
