@@ -7,10 +7,11 @@ h2{
     width: 1420px;
 }
 .header-color{
-    background-color: #f582ae;
+    background-color: #ff9999;
 }
 .main-header-color{
-    background-color:#ffccdd;
+    background-color:#f3d2c1;
+    
 }
 
 .container
@@ -224,7 +225,7 @@ a{
 .text1{
     margin-top: 200px;
 }
-.map{
+.text-paragraph{
      margin-left: 50px;
     align-items: center;
 }
@@ -235,7 +236,7 @@ a{
     border-radius: 30px;
   }
   .building-conatiner{
-    background: linear-gradient(to right, #f3a4c2,#b09b9b);
+    background: linear-gradient(to right, #f3a4c2,#9eb7d5);
     height:250px;
     width:600px;
     padding:20px;
@@ -253,6 +254,7 @@ a{
     flex-wrap: wrap;
     justify-content: start;
     color:#fff;
+    margin-left: 60px;
   }
   .building-text{
     padding-top: 30px;
