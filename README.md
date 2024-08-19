@@ -22,7 +22,7 @@ We have various pages in this websites are as follows :
 - **Page Link** : [Visit Index Page](https://icp-9-0-github-group8-project2.vercel.app/Html-pages/Project-In_Focus.html).
   **Summery Of Page**:-This is Project-In-Focus Page were all the facilities that are been provided in perticular apartments that are mentioned here.The slot booking form is also provided so that user whenever want to book appointed can book it.
 - **Language Used** : HTML 5 ,css.
-- **Rent Page**
+
 
 **Rent Page**
 
