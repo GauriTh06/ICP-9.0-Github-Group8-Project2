@@ -17,7 +17,8 @@ body {
   border-radius: 20px;
 }
 .cards_container:hover {
-  border: 1px solid purple;
+  border: 1px solid palevioletred;
+  box-shadow: 3px 10px 15px 4px gray;
 }
 .card:hover {
   box-shadow: 2px 2px 1px 0px white;
