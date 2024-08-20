@@ -140,3 +140,6 @@ body{
     position: fixed;
     top: 0%;
 }
+.width-1{
+    width: 100%;
+}
