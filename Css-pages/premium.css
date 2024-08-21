@@ -15,7 +15,16 @@
 
 }
 .premimum-header-logo{
+    cursor:pointer;
+    display: flex;
+    align-items: center;
+}
+.premimum-header-logo img{
     height: 18px;
+}
+.premimum-header-logo span{
+    margin-left: 5px;
+    font-size: 14px;
 }
 .premimum-menu-container{
     display: flex;
@@ -627,7 +636,7 @@ text-align: center;
     padding:2px 2px;
 }
 /* for 500px maximum start */
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 540px) {
     .premimum-content-section1{
         width:100%;
         justify-content: flex-start;
@@ -688,8 +697,8 @@ text-align: center;
         width: 50%;
     }
     .premimum-header-logo img{
-        width: 25px;
-        height: 20px;
+        width: 18px;
+        height: 18px;
     }
     .premimum-menu-sub-container-save img {
         width: 10px;
@@ -978,7 +987,7 @@ text-align: center;
 }
 /* for 500px maximum end */
 /* for 500px min to 760 max start */
-@media only screen and (min-width: 510px) and (max-width:780px){
+@media only screen and (min-width: 550px) and (max-width:780px){
     
     .premimum-content-container{
         width: 100%;
