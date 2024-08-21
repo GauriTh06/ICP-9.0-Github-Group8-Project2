@@ -281,7 +281,7 @@ a{
         border-bottom: 2px solid #f582ae; 
         padding: 0px 10px;
         margin-bottom: 1em;
-        margin-left: 50px;
+        margin-left: 10px;
         width: 500px;
     }
 .container
@@ -295,7 +295,7 @@ a{
     justify-content: center;
     flex-direction: row;
     box-shadow: 0 0 10px 0px #f582ae;
-    margin-left: 50px;
+    margin-left: 10px;
     width: 400px;
     
 }
@@ -323,7 +323,7 @@ a{
     flex-direction: row;
     border: 2px solid #e6c5b4;
     box-shadow: 0 0 10px 0px #f582ae;
-    margin-left: 20px;
+    margin-left: 10px;
     width: 500px;
     height: 100px;
 }
@@ -358,7 +358,7 @@ font-size: 10px;
 }
 .house{
     width: 400px;
-    margin-left: 20px;
+    margin-left: 10px;
     display: flex;
     flex-wrap: wrap;
 }
@@ -375,7 +375,7 @@ font-size: 10px;
     
     box-shadow: 0 0 10px 0px #f582ae;
     flex-direction: row;
-    margin-left: 30px;
+    margin-left: 10px;
     width: 400px;
 }
 .selers-info{
@@ -389,7 +389,7 @@ font-size: 10px;
     width: 300px;  
 }
 .Mumbai-Map{
-    margin: 30px;
+    margin: 10px;
     width: 400px;
     border-radius: 30px;
   }
