@@ -8,14 +8,17 @@ body {
 
 .cards_container {
   display: flex;
+  justify-content: space-between;
   background: linear-gradient(to right, #f5d6eb, #ccccff, #d98cb3);
   width: 1200px;
   height: 400px;
-  margin-left: 70px;
+  margin: auto;
+  margin-bottom: 35px;
   border-radius: 20px;
 }
 .cards_container:hover {
-  border: 1px solid purple;
+  border: 1px solid palevioletred;
+  box-shadow: 3px 10px 15px 4px gray;
 }
 .card:hover {
   box-shadow: 2px 2px 1px 0px white;
@@ -33,6 +36,7 @@ body {
   box-shadow: 0px 20px 25px 3px #0d0d0d;
   margin: 20px;
 }
+
 .img {
   cursor: pointer;
   border: none;
@@ -53,8 +57,12 @@ body {
 .plot-house-img {
   display: block;
   margin: 0px auto;
+  margin-bottom: 60px;
   width: 1178px;
   height: 600px;
   border: #000066;
   border-radius: 15px;
+}
+.text_margin {
+  margin-left: 70px;
 }
