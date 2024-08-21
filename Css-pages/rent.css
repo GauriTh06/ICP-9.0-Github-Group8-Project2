@@ -26,7 +26,6 @@ h2{
     box-shadow: 0 0 10px 0px #f582ae;
     margin-left: 50px;
     width: 1400px;
-
 }
 .img{
     width: 150px;
@@ -272,4 +271,135 @@ a{
     font-size:20px;
     
   }
+
+
+
+  /* Mobile Device */
+ @media screen and (max-width: 500px)
+ {
+    h2{
+        border-bottom: 2px solid #f582ae; 
+        padding: 0px 10px;
+        margin-bottom: 1em;
+        margin-left: 10px;
+        width: 500px;
+    }
+.container
+{
+    
+    border: 2px solid #e6c5b4;
+    margin: 5px 0;
+    padding: 20px; 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: row;
+    box-shadow: 0 0 10px 0px #f582ae;
+    margin-left: 10px;
+    width: 400px;
+    
+}
+.img{
+    width: 100px;
+    border-radius: 20px;
+    padding: 10px;
+
+}
+.menu-container
+{
   
+    margin-left: 0px;
+    font-size: small;
+    width:300px;
+}
+.container1
+{
+    
+    background-color:#f3d2c1;
+    margin: 2px 0;
+    padding: 5px; 
+    display:flex;
+    justify-content: space-around;
+    flex-direction: row;
+    border: 2px solid #e6c5b4;
+    box-shadow: 0 0 10px 0px #f582ae;
+    margin-left: 10px;
+    width: 500px;
+    height: 100px;
+}
+.feature-card{
+    background-image: url('../image/bachelor.jpeg');
+    background-size: cover;
+    text-align:center; 
+    border-radius: 5px;
+    width: 200px;
+    height: 90px;
+    
+}
+
+.feature-card1{
+    background-image: url('../image/communicate.jpeg');
+    background-size: cover;
+    text-align: center;
+    border-radius: 5px;
+    width: 200px;
+}
+.feature-card2{
+    background-image: url('../image/owner.jpeg');
+    background-size: cover;
+    text-align: center;
+    margin: 5px;
+    border-radius: 5px;
+    width: 400px;  
+}
+.text1{
+margin: 0px;
+font-size: 10px;
+}
+.house{
+    width: 400px;
+    margin-left: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.house-img{
+    width: 400px;
+    height: 300px;
+    margin-left: 0px;
+}
+.recommended-saler{
+    border: 2px solid #e6c5b4;
+    margin: 5px  0px;
+    padding: 20px; 
+    display: flex;
+    
+    box-shadow: 0 0 10px 0px #f582ae;
+    flex-direction: row;
+    margin-left: 10px;
+    width: 400px;
+}
+.selers-info{
+    border-radius:30px;
+    background-color:#f3d2c1;
+    border: #e6c5b4 solid 2px;
+    margin: 10px;
+    padding:5px;
+    text-align:center;
+    justify-content: start;
+    width: 300px;  
+}
+.Mumbai-Map{
+    margin: 10px;
+    width: 400px;
+    border-radius: 30px;
+  }
+.footer-img1{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: start;
+    width: 450px;
+    color:#fff;
+    margin-left: 10px;
+    height: 400px;
+  }
+}
