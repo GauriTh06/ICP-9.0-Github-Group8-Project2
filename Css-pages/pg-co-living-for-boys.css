@@ -1,0 +1,129 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #fef6e4;
+}
+
+.parent-card{
+    background-color: #f3d2c1;
+    height: 300px;
+    
+}
+.card{
+    height: fit-content;
+    width: fit-content;
+    display: block;
+    margin: 0px auto;
+
+}
+.boy-img{
+    width: 400px;
+    height: 270px;
+    border-radius: 5px;
+}
+
+.hotel-img{
+    height: 270px;
+    width: 450px;
+    border-radius: 5px;
+}
+.heading-text{
+    height: fit-content;
+    width: fit-content;
+    padding: 20px;
+    display: block;
+    margin: 0px auto;
+
+}
+
+.text-1{
+    font-size: 40px;
+    margin-bottom: 5px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.text-2{
+    font-size: 18px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+.heading-text-2{
+    
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 35px;
+
+}
+
+.main-all-container{
+    
+    background-color: aliceblue;
+    padding: 0px;
+    padding-bottom: 40px;
+    width: 90%;
+    border: 2px solid #f3d2c1;
+    border-radius: 20px;
+    margin: 0px auto;
+    margin-top: 190px;
+    margin-bottom: 40px;
+}
+
+.rooms-parent-card{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+    margin-top: 30px;
+    margin-bottom: 0px;
+
+
+}
+
+.rooms-card{
+    
+    border-radius: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+    width: fit-content;
+    padding: 10px;
+    box-shadow: 0px 0px 10px 0px #ababab;
+}
+
+.room-img{
+    width: 250px;
+    border-radius: 5px;
+}
+
+.room-text{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 3px;
+
+}
+.room-text-1{
+margin-bottom: 5px;
+font-family:Arial, Helvetica, sans-serif;
+}
+
+.room-text-1{
+    margin-bottom: 5px;
+}
+.address-text{
+    text-align: center;
+    margin-top: 0px;
+}
+
+.btn{
+    display: block;
+    margin: 0px auto;
+    color: black;
+    border: none;
+    padding: 7px;
+    border-radius: 10px;
+    width: 100px;
+    font-family: cursive;
+    cursor: pointer;
+
+}

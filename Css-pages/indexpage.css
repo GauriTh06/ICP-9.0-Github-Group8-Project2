@@ -1,0 +1,269 @@
+.building-conatiner1{
+  background: linear-gradient(to right, #e5ccff,#ffb3b3);
+  height:300px;
+  width:600px;
+  padding:20px;
+  border-radius: 30px;
+  display:flex;
+  position: relative;
+   margin: 20px;
+   background-color: aqua;
+  
+  
+
+}
+.main-building-container{
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.text-font-size
+ {
+   font-size: 40px;
+   font-weight: 500;
+   margin-left: 110px ;
+   margin-top: 40px;
+   margin-bottom: 2px;
+ }
+ .text-font-building{
+  font-size: 15px;
+   font-weight: 400;
+   margin-left: 110px 
+ }
+ .comapny-logo-image{
+      height:50px;
+      width: 50px;
+      border-radius: 10px;
+      margin: 10px auto;
+
+ }
+ .heading-text{
+  margin:-10px 0;
+ }
+ .building-text4{
+  display: flex;
+  justify-content: space-between;
+  
+  
+  
+
+ }
+ .Building-img{
+  height:260px ;
+  width:380px;
+  display: block;
+  margin:0 10px;
+  border-radius: 10px;
+  
+ }
+ .Project-in-focus-Container{
+  display: flex;
+  flex-wrap: wrap;
+  background-color: #f3d2c1;
+ }
+ .Project-in-focus-images{
+  height:300px;
+  width: 450px;
+  margin: 20px 25px;
+  border-radius: 20px;
+  box-shadow:  5px 5px 5px #737373;
+  display:block
+ }
+ .image-container {
+  position: relative;
+  width:fit-content; 
+}
+
+
+
+.text-overlay2 {
+  position: absolute;
+  top: 67%; 
+  left: 32%; 
+  transform: translate(-50%, -50%); 
+  color: white; 
+  background-color: rgba(0, 0, 0, 0.5); 
+  padding: 10px;
+  font-size: 15px;
+  font-weight: 500;
+}
+.text-overlay1 {
+  position: absolute;
+  top: 68%; 
+  left: 27%; 
+  transform: translate(-50%, -50%); 
+  color: white; 
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 10px;
+  font-size: 15px;
+  font-weight: 500;
+}
+.header-taskbar-container1
+{
+  width:100% ;
+  height: 50px;
+  background-color:#ff9999;
+  backdrop-filter: blur(10px);
+  display:flex;
+}
+.Nyati-Emerald-container{
+  margin: 30px 40px;
+}
+.Nyati-Info{
+  color:#001858;
+  font-size: 20px;
+  font-weight: 400;
+  margin: 30px auto;
+  text-align: center;
+}
+.Nayti-img-container{
+  display: flex;
+  flex-wrap: wrap;
+}
+.nayti-img{
+  height:400px;
+  width:650px;
+  margin: 5px 30px;
+}
+.nayti-img-single-container{
+    display:block;
+}
+.nayti-text{
+  color: #001858;
+  font-size: 30px;
+  font-weight: 400;
+  text-align: center;
+  margin: 10px 10px;
+  
+}
+ .Table {
+  color: #001858;
+  background-color: #f3d2c1;
+  margin: 50px 530px;
+  border: 1px solid #001858;
+  padding: 10px;
+
+}
+.con1{
+  display: flex;
+  margin: 70px 20px;
+}
+.con1-child1{
+  display: block;
+  margin-top: 40px;
+  margin-left: 100px;
+}
+.text1{
+  color: #0e172c;
+  font-size:40px;
+  font-weight: 400;
+
+}
+.packing-img{
+  height: 600px;
+  width:2500px;
+  margin-left: 300px;
+  margin-right: 100px;
+  box-shadow: 10px 10px 5px #cccccc;
+}
+.Input-box-Container{
+  display: block;
+}
+.Input-box{
+  font-size: 30px;
+  color: #001858;
+  background-color: #f3d2c1;
+  border: none;
+  border-radius: 10px;
+  margin: 20px 20px;
+  padding: 5px;
+}
+.Pre-Register-Button{
+  color:#001858;
+  background-color: #f582ae;
+  font-size: 30px;
+  border-radius: 30px;
+  border: 2px solid #001858 ;
+  margin: 20px 20px;
+  padding: 10px;
+}
+.Pre-Register-Button:hover{
+  color:#001858;
+  background-color: white;
+  border: 1px solid #001858 ;
+  
+}
+.our-products-container2{
+  height:900px;
+  width: 100%;
+  
+  justify-content: center;
+}
+.text{
+  margin:20px auto ;
+  font-size: 50px;
+  font-weight:400;
+  text-align: center;
+  color:#0e172c ;
+}
+.products{
+  display:flex;
+  background-color: #fffffe;
+  padding: 10px;
+  margin:10px auto;
+  flex-wrap: wrap;
+  width: 1200px;
+  justify-content: center;
+  
+}
+.pro{
+  display: block;
+}
+.head{
+  color: #0e172c;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 25px;
+  font-weight: 300;
+  text-align: center;
+}
+.images{
+  height: 250px;
+  width: 250px;
+ margin:10px 20px;
+ box-shadow: 5px 5px 5px #cccccc;
+}
+.Mumbai-Map{
+  margin: 20px 100px;
+  width: 1000px;
+  height: 600px;
+  border-radius: 30px;
+}
+.image-news{
+  height: 300px;
+  width: 400px;
+  margin: 5px 90px;
+  border-radius: 10px;
+}
+.news-text{
+  margin: 10px 10px;
+  font-size: 20px;
+  font-weight: 500;
+  
+}
+.news-container{
+  display: flex;
+
+}
+
+  
+  
+
+
+
+
+
+
+
+
+
+ 
