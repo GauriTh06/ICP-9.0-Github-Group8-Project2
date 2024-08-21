@@ -350,7 +350,46 @@
   font-weight: 500;
   
 }
+.nayti-img{
+  height:180px;
+  width:310px;
+ margin: 2px 2px;
+}
+.Table {
+ 
+  margin: 20px 10px;
   
+
+}
+.text1{
+  font-size: 20px;
+}
+.con1{
+  
+  margin: 10px 5px;
+}
+.con1-child1{
+  
+  margin-top: 10px;
+  margin-left: 15px;
+}
+.Input-box{
+  font-size: 20px;
+  
+  margin: 5px 5px;
+  padding: 5px;
+}
+.Pre-Register-Button{
+  
+  font-size: 20px;
+  
+  padding: 7px;
+}
+.packing-img{
+  height: 200px;
+}
+ 
+
   
 
 
