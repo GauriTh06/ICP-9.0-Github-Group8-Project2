@@ -168,12 +168,6 @@
 }
 
 
-/*Desktop*/
-@media screen and(min-width:769px)
-{
-    
-}
-
 /*Mobile*/
 @media screen and (max-width:500px)
 {   
@@ -302,8 +296,3 @@
 
 }
 
-/*Tablet*/
-@media screen and (min-width:501) and (max-width:768px) 
-{
-    
-}
