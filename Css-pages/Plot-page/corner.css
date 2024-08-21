@@ -4,15 +4,18 @@ body {
 .parent {
   display: flex;
 }
+.ch1 {
+  margin-top: 60px;
+}
 .ch2 {
   position: fixed;
   background: linear-gradient(to right, #e5ccff, #ffb3b3);
   width: 480px;
   height: 400px;
-  margin-top: 20px;
+  margin-top: 80px;
   margin-left: 850px;
   border: none;
-  border-radius: 10px;
+  border-radius: 15px;
 }
 .land-house {
   width: 480px;
@@ -95,6 +98,6 @@ body {
 .second-child {
   background-color: purple;
 }
-.hyperlink{
+.hyperlink {
   text-decoration: none;
 }
