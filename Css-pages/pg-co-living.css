@@ -1,0 +1,265 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #fef6e4;
+}
+.header-color{
+    background-color: #ff9999;
+}
+.main-header-color{
+    background-color: #f3d2c1;
+}
+
+.collection-parent-card{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.collection-card{
+    width: 240px;
+    height: 170px;
+    border-radius: 20px;
+    margin: 20px;
+    position: relative; 
+
+    &:hover{
+        box-shadow: 0px 0px 7px 1px gray;
+        transition: 0.5ms;
+
+    }
+     
+
+}
+
+
+.boy{
+    width: 240px;
+    height: 100%;
+    border-radius: 20px;
+
+}
+
+
+
+.collection-text{
+    text-align: center;
+    color:#fef6e4;
+    position:absolute;
+    top: 65%;
+    width: 100%;
+    font-size: 20px;
+    font-weight: bold;
+       
+}
+
+
+.banner{
+    width: 80%;
+    display: block;
+    margin: 10px auto;
+    border-radius: 20px;
+}
+
+.home-at-first-sight{
+    height: 450px;
+    width: 90%;
+    background-image: url("./../image/nature-home.jpg");
+    background-size: cover;
+    margin: 20px auto;
+    border-radius: 20px;
+    border: 2px solid #001858;
+
+}
+.home-at-first-sight-2{
+    width: fit-content;
+    height: fit-content;
+
+}
+
+.text-house{
+    color: #fef6e4;
+    margin-top: 60px;
+    margin-left: 73px;
+    margin-bottom: 0px;
+    font-family: "Permanent Marker";
+    font-weight: 400;
+    font-size: 40px;
+}
+
+.text-house-2{
+
+    margin-top: 10px;
+    margin-left: 35px;
+    color: #fef6e4;
+    font-size: 22px;
+    font-family: cursive;
+
+}
+
+.parent-city-card{
+    width:100%;
+    margin-top: 20px;
+}
+
+.popular-cities{  
+   display: flex;   
+   margin: 0px auto;
+   border-radius: 10px;
+   
+}
+
+.align{
+    display: flex;
+    margin: 0px auto;
+   
+}
+
+.city-img{
+    width: 300px;
+    height: 200px; 
+    border-radius: 10px;
+
+}
+
+.city{
+    padding: 10px;
+    background-color: #ffccb3;
+       
+}
+
+.city-text{
+    text-align: center;
+    margin: 2px;
+    font-weight: bold;
+    font-size: 20px;
+    color: #001858;
+   
+}
+.city-headline{
+   text-align: center; 
+   color: #001858;
+   background-color: #f7e0d4;
+   padding: 20px;
+   
+}
+
+.b-r-1{
+    border-radius: 0px 0px 0px 13px;
+}
+
+.b-r-2{
+    border-radius: 0px 13px 0px 0px;
+}
+
+.b-r-3{
+    border-radius: 0px 0px 13px 0px;
+}
+
+.b-r-4{
+    border-radius: 13px 0px 0px 0px;
+}
+
+.parent-benifits-card{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+
+}
+
+.benifit-cards{
+    margin: 55px;
+    margin-bottom: 0px;
+    margin-top: 5px;
+
+   
+
+}
+
+.benifit-img{
+    width: 170px;
+    display: block;
+    margin: 0px auto;
+}
+
+.benifit-text{
+    text-align: center;
+    margin-bottom: 0px;
+    font-size: 17px;
+
+}
+.benifit-text-2{
+    text-align: center;
+    margin-top: 7px;
+    font-size: 13px;
+}
+
+.establishment-in-city-parent-card{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.establishment-in-city-card{
+    width: fit-content;
+    height: fit-content;
+    display: flex;
+    padding: 0px;
+    margin-left: 25px ;
+    margin-right: 25px;
+    box-shadow: 2px 2px 10px 1px #ababab;
+
+   
+}
+
+.establishment-text{
+   margin-left: 20px;
+   margin-top: 22px;
+   font-size: 18px;
+    
+}
+
+.establishment-img{
+    height: 63px;
+    width: 103px;
+    margin-left: 50px;
+    background-color: #8bd3dd;
+    
+}
+
+.margin{
+    margin-bottom: 50px;
+}
+
+.margin-2{
+    margin-top: 50px;
+}
+
+.margin-3{
+    margin-top: 40px;
+}
+
+.establishment-img-1{
+    height: 63px;
+    width: 103px;
+    margin-left: 60px;
+    background-color: #8bd3dd;
+    
+}
+
+.establishment-img-2{
+    height: 63px;
+    width: 103px;
+    margin-left: 60px;
+    background-color: #8bd3dd;
+    
+}
+
+.establishment-text-2{
+    margin-left: 17px;
+    margin-top: 22px;
+    font-size: 18px;
+     
+ }
+ 

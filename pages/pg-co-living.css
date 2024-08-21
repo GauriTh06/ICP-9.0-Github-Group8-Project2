@@ -1,0 +1,61 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #fef6e4;
+}
+
+.collection-parent-card{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.collection-card{
+    width: 250px;
+    border-radius: 20px;
+    margin: 20px;
+    position: relative;
+   
+
+}
+
+.boy{
+    width: 250px;
+    border-radius: 20px;
+
+}
+
+.collection-text{
+    color: white;
+    position:absolute;
+    top: 65%;
+    width: 100%;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center; 
+       
+}
+
+.home-sight-p-card{
+    
+    margin: 20px 0px;
+}
+
+.home-sight{
+    width: 93%;
+    display: block;
+    margin: 0px auto;
+}
+
+.heading-text{
+    position: absolute;
+    top: 50%;
+    left: 7%;
+}
+
+.text1{
+    position: absolute;
+    top: 50%;
+    left: 7%;
+}
+
