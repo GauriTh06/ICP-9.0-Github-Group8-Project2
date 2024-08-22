@@ -84,3 +84,109 @@ a{
 .header-con{
     width: 1460px;
 }
+
+ /* Mobile Device */
+ @media screen and (max-width: 500px)
+ {
+    h2{
+        margin-left: 10px;
+        width: 400px;
+    }
+    .Container{
+        display: flex;
+        flex-direction: row;
+        margin: 10px;
+        width: 400px;
+        height: 550px;  
+    }
+    .img{
+        width: 100px;
+        border-radius: 2cap;
+        margin-top: 20px;
+        padding: 10px;
+    }
+    .feature{
+        padding: 0px 5px;
+        height: auto;
+       
+        
+    }
+    .like-img{
+        margin-left:100px;
+        padding-top: 5px;
+    }
+    .share-img{
+        margin-left: 40px;
+        padding-top: 5px;
+        
+    }
+    .block{
+        display:flex;
+        flex-wrap: wrap;
+        width:270px ;
+    }
+    .maincard-container{
+      
+        margin-left: 10px;  
+    }
+    .btn{
+        margin-left: 10px;
+        
+    }
+    .btn{
+        background-color: #f582ae;
+     }
+ }
+
+
+
+ /*Tablet*/
+@media screen and  (min-width: 501px) and (max-width: 768px)
+{
+    h2{
+        margin-left: 10px;
+        width: 700px;
+    }
+    .Container{
+        display: flex;
+        flex-direction: row;
+        margin: 10px;
+        width: 700px;
+       
+    }
+    .img{
+        width: 100px;
+        border-radius: 2cap;
+        margin-top: 20px;
+        padding: 10px;
+    }
+    .feature{
+        padding: 0px 5px;
+        height: auto;
+       
+        
+    }
+    .like-img{
+        margin-left:500px;
+        padding-top: 5px;
+    }
+    .share-img{
+        margin-left:10px;
+        padding-top: 5px;
+        
+    }
+    
+    .maincard-container{
+      
+        margin-left: 10px;  
+    }
+    .btn{
+        margin-left: 80px;
+        
+    }
+    .btn{
+        background-color: #f582ae;
+}
+
+
+}

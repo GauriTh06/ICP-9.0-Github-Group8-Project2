@@ -1,9 +1,11 @@
-.body
+body
 {
     background-color:#fef6e4 ;
     margin:0;
     padding:0;
+    font-family: "Montserrat", sans-serif;
 }
+
 
 .button
 {
@@ -14,7 +16,7 @@
 .header-main-container
   {
     height: 500px;
-    width: 1420px;
+    width: 1430px;
     background-color:#f3d2c1;
     margin-top: none;
     margin-left: 50px;
@@ -24,15 +26,17 @@
     padding: 0px;
     
   }
+  
 .header-taskbar-container
   {
-    width:1320px;
+    width:1430px;
     height:50px;
-    background-color:#ffbb99;
+    background-color:#ff9999;
     backdrop-filter: blur(10px);
     display:flex;
     position: fixed;
     z-index: 9;
+    
     
   }
   
@@ -56,9 +60,10 @@
   .top-right-header-container{
     display: flex;
     align-items: end;
-    margin:20px;
+    margin:10px 10px;
     padding:10px;
-    position: relative;
+    
+    align-items: center;
     
 
   }
@@ -69,11 +74,15 @@
     font-size: 20px;
     border: none;
     border-radius: 40px;
-    margin:-13px 20px;
-    padding: 4px;
-    padding-left: 30px;
-    padding-right: 30px;
+    margin: 10px 30px;
+    padding: 3px;
+    padding-left: 25px;
+    padding-right: 25px;
+    align-items: center;
     
+  }
+  .crown-img{
+    align-items: center;
   }
   .premium-button-text{
     align-items: center;
@@ -233,6 +242,7 @@ font-size: 30px;
 font-weight: 400;
 margin:10px 10px;
 }
+<<<<<<< HEAD
 @media (min-width: 1200px) {
     .header-main-container {
         width: 1200px;
@@ -316,3 +326,150 @@ margin:10px 10px;
         font-size: 20px;
     }
 }
+=======
+@media screen and  (max-width: 470px) {
+  .header-main-container
+  {
+    height:310px ;
+    width: 100%;
+    margin-left:0;
+    border-radius: 0;
+  }
+  .header-taskbar-container
+  {
+    width:100%;
+    
+   
+  }
+  .websitename{
+    font-size: 20px;
+    margin-right: 80px;
+    font-weight: 500;
+}
+.Logo-image{
+  margin-left: 3px;
+}
+.Premium-button{
+  font-size: 15px;
+  display: flex;
+}
+.header-heading-text{
+  font-size: 15px;
+  margin-top: 140px;
+  
+  margin-left: 105px;
+}
+.header-link-pages-container{
+  width: 390px;
+  margin-left: 5px;
+  display: inline-block;
+  height:100px;
+}
+.Link-pages{
+   
+  padding: 10px;
+  margin-left: 5px;
+  
+}
+ .text-link
+ {
+   padding: 3px;
+   margin: 5px 5px;
+   font-size: 15px;
+   font-weight: 400;
+ }
+.header-input-box{
+  
+  margin-top: 10px;
+  
+ }
+ .foot-text{
+  font-size: 15px;
+  
+  margin: 5px;
+  padding: 5px;
+  
+
+}
+
+}
+
+/* Tablet Devices */
+
+@media screen and (min-width: 470px) and (max-width: 992px) {
+  
+    .header-main-container
+    {
+      
+      width:850px;
+      height: 360px;
+    }
+    .header-taskbar-container
+    {
+      width:850px;
+      
+     
+    }
+    .websitename{
+      font-size: 22px;
+      margin-right: 80px;
+      font-weight: 500;
+  }
+  .header-img{
+    height: 200px;
+    width: 230px;
+    margin:80px 20px;
+  }
+  .Logo-image{
+    margin-left: 7px;
+  }
+  .Premium-button{
+    font-size: 15px;
+    display: flex;
+  }
+  .header-heading-text{
+    font-size: 30px;
+    margin-top: 140px;
+    
+    margin-left: 105px;
+  }
+  .header-link-pages-container{
+    width: 500px;
+    margin-left: 30px;
+    
+    
+  }
+  .Link-pages{
+     
+    padding: 10px;
+    margin-left: 5px;
+    
+  }
+   .text-link
+   {
+     padding: 3px;
+     margin: 5px 5px;
+     font-size: 15px;
+     font-weight: 400;
+   }
+  .header-input-box{
+    
+    margin-top: 10px;
+    
+   }
+   .foot-text{
+    font-size: 15px;
+    
+    margin: 5px;
+    padding: 5px;
+    
+  
+  }
+  .footer-container {
+    width: 900px;
+    height: 40px;
+  
+  }
+}
+
+>>>>>>> 106d794037f0e0c7070d3eedb88c0c817127b2c8

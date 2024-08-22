@@ -5,6 +5,8 @@ body{
 }
 
 .parent-card{
+    position: relative;
+    top: 50px;
     background-color: #f3d2c1;
     height: 300px;
     
@@ -67,7 +69,7 @@ body{
     border: 2px solid #f3d2c1;
     border-radius: 20px;
     margin: 0px auto;
-    margin-top: 190px;
+    margin-top: 260px;
     margin-bottom: 40px;
 }
 
@@ -89,6 +91,11 @@ body{
     width: fit-content;
     padding: 10px;
     box-shadow: 0px 0px 10px 0px #ababab;
+
+    &:hover{
+        box-shadow: 0px 0px 10px 3px #ababab; 
+        transition: 0.2s;
+    }
 }
 
 .room-img{
@@ -103,8 +110,8 @@ body{
 
 }
 .room-text-1{
-margin-bottom: 5px;
-font-family:Arial, Helvetica, sans-serif;
+    margin-bottom: 5px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .room-text-1{
@@ -126,4 +133,168 @@ font-family:Arial, Helvetica, sans-serif;
     font-family: cursive;
     cursor: pointer;
 
+}
+
+.room-text-3{
+    z-index: 10;
+    position: fixed;
+    top: 0%;
+}
+.width-1{
+    width: 100%;
+}
+
+
+/*Mobile*/
+
+@media screen and (max-width:500px)
+
+{
+
+    .none-3{
+        display: none;
+    }
+
+    .boy-img{
+        width: 300px;
+        height: 200px;
+        border-radius: 5px;
+    }
+
+    .text-1{
+        font-size: 25px;
+        margin-bottom: 5px;
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    .text-2{
+        font-size: 14px;
+        margin-bottom: 5px;
+        text-align: center;
+    }
+
+    .heading-text-2{
+    
+        font-weight: bold;
+        font-size: 22px;
+        text-align: center;
+        margin-bottom: 35px;
+    
+    }
+
+    .rooms-parent-card{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 40px;
+        margin-top: 10px;
+        margin-bottom: 0px;
+        margin: 20px;
+        
+    
+    
+    }
+
+    .main-all-container{
+    
+        background-color: aliceblue;
+        padding: 0px;
+        padding-bottom: 40px;
+        width: 80%;
+        border: 2px solid #f3d2c1;
+        border-radius: 20px;
+        margin: 0px auto;
+        margin-top: 160px;
+        margin-bottom: 40px;
+    }
+
+    .rooms-card{
+    
+        border-radius: 5px;
+        margin:10px;
+        width: fit-content;
+        padding: 10px;
+        box-shadow: 0px 0px 10px 0px #ababab;
+    
+       
+    }
+
+}
+
+/*Tablet*/
+@media screen and (min-width: 501px) and (max-width: 992px)
+{
+    .none-3{
+        display: none;
+    }
+
+    .boy-img{
+        width: 350px;
+        height: 220px;
+        border-radius: 5px;
+    }
+
+    .text-1{
+        font-size: 27px;
+        margin-bottom: 5px;
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    .text-2{
+        font-size: 16px;
+        margin-bottom: 5px;
+        text-align: center;
+    }
+
+    .heading-text-2{
+    
+        font-weight: bold;
+        font-size: 24px;
+        text-align: center;
+        margin-bottom: 35px;
+    
+    }
+
+    .rooms-parent-card{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 40px;
+        margin-top: 10px;
+        margin-bottom: 0px;
+        margin: 20px;
+        
+    
+    
+    }
+
+    .main-all-container{
+    
+        background-color: aliceblue;
+        padding: 0px;
+        padding-bottom: 40px;
+        width: 85%;
+        border: 2px solid #f3d2c1;
+        border-radius: 20px;
+        margin: 0px auto;
+        margin-top: 160px;
+        margin-bottom: 40px;
+    }
+
+    .rooms-card{
+    
+        border-radius: 5px;
+        margin:15px;
+        width: fit-content;
+        padding: 10px;
+        box-shadow: 0px 0px 10px 0px #ababab;
+    
+       
+    }  
 }
