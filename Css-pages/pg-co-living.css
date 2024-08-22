@@ -266,4 +266,191 @@ body{
     font-size: 18px;
      
  }
+
+ /*Mobile*/
  
+@media screen and (max-width: 500px) {
+    .collection-parent-card{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+       
+    }
+
+    .collection-card{
+        width: 120px;
+        height: 100px;
+        border-radius: 20px;
+        margin: 10px;
+        
+         
+    }
+
+    .collection-text{
+        text-align: center;
+        color:#fef6e4;
+        position:absolute;
+        top: 65%;
+        width: 100%;
+        font-size: 12px;
+        font-weight: bold;
+           
+    }
+
+    .boy{
+        width: 120px;
+        height: 100%;
+        border-radius: 20px;
+    
+    }
+
+   .none{
+    display: none;
+   }
+
+   .city-img{
+    width: 200px;
+    height: 150px; 
+    border-radius: 10px;
+
+   }
+
+   .b-r-3-3{
+    border-radius: 0px 0px 13px 0px;
+
+   }
+
+   .b-r-2-2{
+    border-radius: 0px 13px 0px 0px;
+
+   }
+
+   .city-text{
+    text-align: center;
+    margin: 2px;
+    font-weight: bold;
+    font-size: 15px;
+    color: #001858;
+   
+    }
+
+   .city-headline{
+    text-align: center; 
+    color: #001858;
+    background-color: #f7e0d4;
+    padding: 15px;
+    font-size: 25px;
+    
+ }
+
+ .establishment-text{
+    margin-left: 10px;
+    margin-top: 17px;
+    font-size: 12px;
+     
+ }
+
+ .establishment-img{
+    height: 63px;
+    width: 103px;
+    margin-left: 30px;
+    background-color: #8bd3dd;
+    
+}
+}
+
+/*Tablet*/
+@media screen and (min-width: 501px) and (max-width: 768px)
+{
+    .collection-parent-card{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+       
+    }
+
+    .collection-card{
+        width: 140px;
+        height: 120px;
+        border-radius: 20px;
+        margin: 10px;
+        
+        
+         
+    }
+
+    .boy{
+        width: 140px;
+        height: 100%;
+        border-radius: 20px;
+    
+    }
+
+    .collection-text{
+        text-align: center;
+        color:#fef6e4;
+        position:absolute;
+        top: 65%;
+        width: 100%;
+        font-size: 15px;
+        font-weight: bold;
+           
+    }
+
+   
+
+   .none-2{
+    display: none;
+   }
+
+   .city-img{
+    width: 225px;
+    height: 160px; 
+    border-radius: 10px;
+
+   }
+   .b-r-3-3{
+    border-radius: 0px 0px 13px 0px;
+
+   }
+
+   .b-r-2-2{
+    border-radius: 0px 13px 0px 0px;
+
+   }
+
+   .city-text{
+    text-align: center;
+    margin: 2px;
+    font-weight: bold;
+    font-size: 18px;
+    color: #001858;
+   
+    }
+
+   .city-headline{
+    text-align: center; 
+    color: #001858;
+    background-color: #f7e0d4;
+    padding: 16px;
+    font-size: 27px;
+    
+ }
+
+ .establishment-text{
+    margin-left: 10px;
+    margin-top: 15px;
+    font-size: 14px;
+     
+ }
+
+ .establishment-img{
+    height: 63px;
+    width: 103px;
+    margin-left: 30px;
+    background-color: #8bd3dd;
+    
+}
+
+}
+
