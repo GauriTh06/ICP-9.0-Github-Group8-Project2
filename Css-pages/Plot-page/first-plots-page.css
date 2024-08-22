@@ -6,6 +6,7 @@ body {
   padding: 10px;
 }
 
+
 .cards_container {
   display: flex;
   justify-content: space-between;

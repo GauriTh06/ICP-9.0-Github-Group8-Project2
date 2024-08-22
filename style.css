@@ -242,7 +242,7 @@ font-size: 30px;
 font-weight: 400;
 margin:10px 10px;
 }
-@media screen and  (max-width: 470px) {
+@media screen and  (max-width: 500px) {
   .header-main-container
   {
     height:310px ;

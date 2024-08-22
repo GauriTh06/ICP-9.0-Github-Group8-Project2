@@ -4,6 +4,9 @@ body {
 .parent {
   display: flex;
 }
+.header-container2{
+  width:100%;
+}
 .ch1 {
   margin-top: 60px;
 }
