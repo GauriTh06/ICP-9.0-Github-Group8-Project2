@@ -72,10 +72,10 @@ We have various pages in this websites are as follows :
 
 **Premium Page**
 
-![Premium Page Screen Shot](./image/plots-scr.png)
+![Premium Page Screen Shot](./image/premium-output-page.png)
 
 ## Information About Premium Page
 
 - **Page Link** : [Visit Premium Page](https://icp-9-0-github-group8-project2.vercel.app/Html-pages/premium.html).
-- **Summery Of Page** : This is Premium Page.In this page I have added some information about premium ,connection and discount about rent,property buy from this website.
+- **Summery Of Page** : This is Premium Page.In this page I have added some information about premium  for connections. So that user get information about rent houses and properties etc . In this page also information about discount on premium and testimonal about the premium which is purchased by old and new users.This page also have information about featured about this company.
 - **Language Used** : HTML 5 ,CSS.
