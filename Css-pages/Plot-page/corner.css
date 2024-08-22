@@ -101,3 +101,22 @@ body {
 .hyperlink {
   text-decoration: none;
 }
+
+/*media queary for mobile size 500px */
+@media screen and(max-width:500px) {
+  .ch2 {
+    display: none;
+  }
+  .fixed_para {
+    display: none;
+  }
+  .land-house {
+    display: none;
+  }
+  .main_container {
+    height: 200px;
+    width: 400px;
+    margin-left: 10px;
+    margin-top: 5px;
+  }
+}
