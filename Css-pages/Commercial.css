@@ -179,6 +179,7 @@ body
 
 .menu-container {
     background-color: #f3d2c1;
+    
     border: 2px solid #e6c5b4;
     border-radius: 10px;
     width: 250px;
@@ -186,6 +187,12 @@ body
     padding: 20px 10px;
     margin: 0 10px;
     transition: transform 0.3s ease-in-out; 
+}
+h6{
+  color: #737373;
+}
+h4{
+  text-shadow: wheat;
 }
 
 .menu-container:hover {
