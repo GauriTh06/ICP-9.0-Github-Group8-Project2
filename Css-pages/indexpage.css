@@ -1,6 +1,6 @@
 .building-conatiner1{
   background: linear-gradient(to right, #e5ccff,#ffb3b3);
-  height:300px;
+  height:260px;
   width:600px;
   padding:20px;
   border-radius: 30px;
@@ -232,7 +232,20 @@
  margin:10px 20px;
  box-shadow: 5px 5px 5px #cccccc;
 }
-.Mumbai-Map{
+.recommended-saler1{
+  border: 2px solid #e6c5b4;
+  margin: 5px 0;
+  padding: 20px; 
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  box-shadow: 0 0 10px 0px #f582ae;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-left: 50px;
+  width: 1400px;
+}
+.Mumbai-Map1{
   margin: 20px 100px;
   width: 1000px;
   height: 600px;
@@ -254,6 +267,136 @@
   display: flex;
 
 }
+@media screen and  (max-width: 420px) {
+  .text-font-size
+ {
+   font-size: 30px;
+   margin-left: 30px ;
+   margin-top: 20px;
+   
+   }
+   .text-font-building{
+    font-size: 15px;
+     font-weight: 400;
+     margin-left: 30px ;
+}
+.comapny-logo-image{
+  height:30px;
+  width: 30px;
+}
+.building-conatiner1{
+  height:180px;
+  width:338px;
+   margin: 5px;
+   padding:10px;
+}
+.Building-img{
+  height:180px ;
+  width:210px;
+  display: block;
+  margin:0 3px;
+  border-radius: 10px;
+  
+ }
+ .heading-text{
+  margin:-10px 0;
+  font-size:12px;
+ }
+ .text-font{
+  font-size: 11px;
+ }
+ .Project-in-focus-images{
+  height:230px;
+  width: 350px;
+ }
+ .text-overlay1 {
+  
+  font-size: 11px;
+  font-weight: 400;
+}
+.text-overlay2 {
+  font-size: 11px;
+  font-weight: 400;
+}
+.products{
+  width: 360px;
+  
+}
+.images{
+  height: 250px;
+  width: 250px;
+ 
+}
+.recommended-saler1{
+  
+  margin-left: 10px;
+  width: 335px;
+}
+.Mumbai-Map1{
+  margin-left: 15px;
+  width: 370px;
+  height: 300px;
+  
+}
+.image-news{
+  height:250px;
+  width: 250px;
+  margin: 5px 5px;
+  border-radius: 10px;
+}
+.news-text{
+  margin: 10px 10px;
+  font-size: 10px;
+  font-weight: 500;
+  
+}
+.nayti-img{
+  height:180px;
+  width:310px;
+ margin: 2px 2px;
+}
+.Table {
+ 
+  margin: 20px 10px;
+  
+
+}
+.text1{
+  font-size: 20px;
+}
+.con1{
+  
+  margin: 10px 5px;
+}
+.con1-child1{
+  
+  margin-top: 10px;
+  margin-left: 15px;
+}
+.Input-box{
+  font-size: 20px;
+  
+  margin: 5px 5px;
+  padding: 5px;
+}
+.Pre-Register-Button{
+  
+  font-size: 20px;
+  
+  padding: 7px;
+}
+.packing-img{
+  height: 200px;
+}
+}
+
+  
+
+
+  
+  
+
+
 
   
   

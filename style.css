@@ -6,6 +6,7 @@ body
     font-family: "Montserrat", sans-serif;
 }
 
+
 .button
 {
     background-color: #f582ae;
@@ -25,6 +26,7 @@ body
     padding: 0px;
     
   }
+  
 .header-taskbar-container
   {
     width:1430px;
@@ -240,3 +242,78 @@ font-size: 30px;
 font-weight: 400;
 margin:10px 10px;
 }
+@media screen and  (max-width: 470px) {
+  .header-main-container
+  {
+    height:310px ;
+    width: 100%;
+    margin-left:0;
+    border-radius: 0;
+  }
+  .header-taskbar-container
+  {
+    width:100%;
+    
+   
+  }
+  .websitename{
+    font-size: 20px;
+    margin-right: 80px;
+    font-weight: 500;
+}
+.Logo-image{
+  margin-left: 3px;
+}
+.Premium-button{
+  font-size: 15px;
+  display: flex;
+}
+.header-heading-text{
+  font-size: 15px;
+  margin-top: 140px;
+  
+  margin-left: 105px;
+}
+.header-link-pages-container{
+  width: 390px;
+  margin-left: 5px;
+  display: inline-block;
+  height:100px;
+}
+.Link-pages{
+   
+  padding: 10px;
+  margin-left: 5px;
+  
+}
+ .text-link
+ {
+   padding: 3px;
+   margin: 5px 5px;
+   font-size: 15px;
+   font-weight: 400;
+ }
+.header-input-box{
+  
+  margin-top: 10px;
+  
+ }
+ .foot-text{
+  font-size: 15px;
+  
+  margin: 5px;
+  padding: 5px;
+  
+
+}
+
+}
+
+/* Tablet Devices */
+
+@media screen and (min-width: 500px) and (max-width: 992px) {
+  .btn {
+    background-color: blue;
+  }
+}
+
