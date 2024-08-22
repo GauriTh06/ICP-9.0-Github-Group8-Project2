@@ -66,3 +66,49 @@ body {
 .text_margin {
   margin-left: 70px;
 }
+
+/* Media query for mobile  max 500px */
+@media screen and(max-width: 500px) {
+  .plot-house-img {
+    display: none;
+  }
+  .cards_container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 300px;
+    height: 300px;
+  }
+  .card {
+    width: 160px;
+    height: 230px;
+  }
+  .img {
+    height: 170px;
+    width: 160px;
+  }
+}
+
+/* Media query for medium devices max 700px */
+@media screen and(max-width: 700px) {
+  .plot-house-img {
+    display: block;
+    margin: 0px auto;
+    margin-bottom: 7px;
+    width: 118px;
+    height: 60px;
+  }
+  .cards_container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 600px;
+    height: 600px;
+  }
+  .card {
+    width: 200px;
+    height: 250px;
+  }
+  .img {
+    height: 270px;
+    width: 260px;
+  }
+}
