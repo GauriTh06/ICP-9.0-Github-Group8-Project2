@@ -311,9 +311,79 @@ margin:10px 10px;
 
 /* Tablet Devices */
 
-@media screen and (min-width: 500px) and (max-width: 992px) {
-  .btn {
-    background-color: blue;
+@media screen and (min-width: 470px) and (max-width: 992px) {
+  
+    .header-main-container
+    {
+      
+      width:850px;
+      height: 360px;
+    }
+    .header-taskbar-container
+    {
+      width:850px;
+      
+     
+    }
+    .websitename{
+      font-size: 22px;
+      margin-right: 80px;
+      font-weight: 500;
+  }
+  .header-img{
+    height: 200px;
+    width: 230px;
+    margin:80px 20px;
+  }
+  .Logo-image{
+    margin-left: 7px;
+  }
+  .Premium-button{
+    font-size: 15px;
+    display: flex;
+  }
+  .header-heading-text{
+    font-size: 30px;
+    margin-top: 140px;
+    
+    margin-left: 105px;
+  }
+  .header-link-pages-container{
+    width: 500px;
+    margin-left: 30px;
+    
+    
+  }
+  .Link-pages{
+     
+    padding: 10px;
+    margin-left: 5px;
+    
+  }
+   .text-link
+   {
+     padding: 3px;
+     margin: 5px 5px;
+     font-size: 15px;
+     font-weight: 400;
+   }
+  .header-input-box{
+    
+    margin-top: 10px;
+    
+   }
+   .foot-text{
+    font-size: 15px;
+    
+    margin: 5px;
+    padding: 5px;
+    
+  
+  }
+  .footer-container {
+    width: 900px;
+    height: 40px;
+  
   }
 }
 

@@ -389,8 +389,45 @@
   height: 200px;
 }
 }
+/* Tablet Devices */
 
+@media screen and (min-width: 470px) and (max-width: 992px) {
   
+  .Project-in-focus-images{
+    height:300px;
+    width: 400px;
+    margin-left: 30px;
+   }
+   .text-overlay1 {
+  
+    font-size: 14px;
+    font-weight: 400;
+  }
+  .text-overlay2 {
+    font-size: 14px;
+    font-weight: 400;
+  }
+  .products{
+    width: 850px;
+    
+  }
+  .images{
+    height: 200px;
+    width: 200px;
+   
+  }
+  .recommended-saler1{
+    
+    margin-left: 28px;
+    width: 850px;
+  }
+  .Mumbai-Map1{
+    margin-left: 35px;
+    width: 850px;
+    height: 700px;
+    
+  }
+}
 
 
   
