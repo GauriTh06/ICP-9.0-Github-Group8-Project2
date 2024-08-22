@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html >
+    
 <head>
     
     <title>Rentify-Hub</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="./../Css-pages/Commercial.css">
     <link rel="stylesheet" href="./Css-pages/indexpage.css">
     <link rel="stylesheet" href="./Css-pages/rent.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -18,249 +20,18 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400..900;1,400..900&family=Caveat:wght@400..700&family=Dancing+Script:wght@400..700&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Outfit:wght@100..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
 </head>
-<style>
-    .body
-{
-    background-color:#fef6e4 ;
-    margin:0;
-    padding:0;
-}
 
-.button
-{
-    background-color: #8c82f5;
-    color: #001858;
-}
-
-.header-main-container
-  {
-    height: 500px;
-    width: 1420px;
-    background-color:#c1dcf3;
-    margin-top: none;
-    margin-left: 50px;
-    margin-right: 30px;
-    margin-bottom: 30px;
-    border-radius: 0px 0px 40px 40px;
-    padding: 0px;
-  }
-.header-taskbar-container
-  {
-    width:1420px ;
-    height: 50px;
-    background-color:#99c3ff ;
-    backdrop-filter: blur(10px);
-    display:flex;
-  }
-  
-  .Logo-image{
-    margin-top: 8px;
-    margin-bottom: 2px;
-    margin-left: 30px;
-    margin-right:2px; 
-  }
-  .websitename{
-    font-family: "Roboto Condensed", sans-serif;
-    color: black;
-    font-size: 28px;
-    font-weight: 600;
-    padding:0%;
-    margin-top: 8px;
-    margin-right: 300px;
-  }
-
-  .top-right-header-container{
-    display: flex;
-    align-items: end;
-    margin:20px;
-    padding:10px;
-    position: relative;
-    
-
-  }
-  .Premium-button{
-    background: linear-gradient(to right, rgb(53, 0, 128),#33ccff);
-    color:white;
-    font-weight: 500;
-    font-size: 20px;
-    border: none;
-    border-radius: 40px;
-    margin:-13px 20px;
-    padding: 4px;
-    padding-left: 30px;
-    padding-right: 30px;
-    
-  }
-  .premium-button-text{
-    align-items: center;
-  }
-  .header-link-pages-container{
-    
-    width: 730px;
-    justify-content: space-around;
-    background-color:#99b4ff ;
-    gap:20px;
-    flex-direction: column;
-    border-radius:15px 15px 40px 40px;
-    padding-top: 18px;
-    margin-left: 160px;
-    
-
-  }
-  .header-link-pages{
-    
-    font-size: 20px;
-    font-weight: 300;
-    color:black;
-    margin:-10px 12px;
-  }
-  .Link-pages{
-   
-   padding: 10px;
-   margin-top: 30px;
-   margin-left: 30px;
-
-  }
-  .text-link
-  {
-    padding: 10px;
-    margin: 10px 10px;
-    font-size: 20px;
-    font-weight: 300;
-    color:black;
-    font-weight: 400;
-    text-decoration: none;
-  }
-  .link-pages-container{
-    background-color:#668aff;
-    height: 30px;
-    width: 100px;
-    align-items: center;
-    
-  }
-   .header-heading-text{
-    margin-top: 180px;
-    margin-left: 160px;
-    font-size: 40px;
-    font-weight: 600;
-    margin-bottom: none;
-   }
-   .header-input-box{
-    margin:0 auto;
-    margin-top: 30px;
-    display: block;
-    width: 100%;
-    border:none;
-    border-radius:35px 35px 38px 38px;
-    font-size: 20px;
-    padding: 23px;
-    text-decoration: none;
-   }
-    
-   .Navbar-container{
-    display:flex;
-
-   }
-   .Main-Navbar-container{
-    display:block;
-   }
-   .header-img{
-    height: 300px;
-    width: 360px;
-    margin:70px 70px;
-    border-radius: 20px;
-    box-shadow: 10px 6px 15px #737373;
-    transform: perspective(200px) rotate3D(0, 1, 0, -10deg);
-   }
-    
-  .heading-color
-  {
-      color: #001858;
-  }
-
-.heading-font-style
-  {
-    font-family:"Outfit", sans-serif;
-  }
-
-.text-font-style
-  {
-    font-family: "Montserrat", sans-serif;
-  }
-  footer {
-    text-align: center;
-    padding: 1em 0;
-    background-color:#c1d2f3;
-    color: black;
-    border:0px solid ;
-    width: 1500px;
-    margin: none;
-
-}
-
-.footer-container {
-    width: 100%;
-    height: 40px;
-    
-    
-}
-
-  
-  .footer-img{
-    height: 40px;
-    width: 40px;
-    border: none;
-    border-radius: 10px;
-    margin: 0 10px ;
-  }
-  .foot-text{
-    font-size: 20px;
-    color:#001858;
-    font-weight: 300;
-    font-style: normal;
-    text-align: left;
-    margin: 10px;
-    padding: 10px;
-    align-items: center;
-
-  }
-.footer-child-container{
-  display: flex;
-}
-
-
-.footer-child-container2{
-  display:flex;
-  margin: 10px 10px;
-  color:#001858;
- font-size: 30px;
- font-weight: 400;
-}
-.Logo-image2{
-  margin-top: 8px;
-  margin-bottom: 2px;
-  margin-left: 10px;
-  margin-right:2px; 
-
-}
-.color{
-color: #03070a ;
-font-size: 30px;
-font-weight: 400;
-margin:10px 10px;
-}
-</style>
 <body class="body">
     <div class="header-main-container">
         <div class="header-taskbar-container">
             
-          <img src="./image/logo.png" class="Logo-image"height="30px"><p class="websitename">Rentify-Hub.com</p>
+          <img src="./../image/logo.png" class="Logo-image"height="30px"><p class="websitename">Rentify-Hub.com</p>
             <div class="top-right-header-container">
-                <button class="Premium-button  text-font-style premium-button-text"> <img src="./image/premiumbutton.png" height="25px"/>Premium</button>
-                <a class="header-link-pages text-font-style" href="#">Download App</a>
-                <a class="header-link-pages text-font-style" href="#">Saved</a>
-                <a class="header-link-pages text-font-style" href="#">News</a>
-                <a class="header-link-pages text-font-style" href="./Html-pages/list-property.html">ListProperty</a>
+                <button class="Premium-button  text-font-style premium-button-text"> <img src="./../image/premiumbutton.png" height="25px"/>Premium</button>
+                <a class="header-link-pages " href="#">Download App</a>
+                <a class="header-link-pages " href="#">Saved</a>
+                <a class="header-link-pages " href="#">News</a>
+                <a class="header-link-pages " href="./Html-pages/list-property.html">ListProperty</a>
 
             </div>
 
@@ -303,13 +74,97 @@ margin:10px 10px;
                 </select>
                 </div>
             </div>
-            <img src="./image/header-img.jpg" class="header-img">
+            <img src="https://www.shutterstock.com/image-photo/business-people-working-together-modern-600nw-2467225753.jpg" class="header-img">
         </div>
     </div>
+    <h1 class="h1">Recently added properties for Sale</h1>
+    <div class="container">
+                
+        <div class="menu-container">
+            <img src="./../image/office_image.jpg" class="img">
+            <h4>Ready to use Office Space 380 sq.ft, Narayan Peth, Pune </h4>
+            <p>By Prashant Kulkarni</p>
+            <h3>₹61.0 L</h3>
+           
+        </div>
+        <div  class="menu-container">
+            <img src="./../image/office_lift.jpg"class="img">
+            <h4>Bare shell Office Space, Kharadi, Pune </h4>
+            <p>By Rachana Shivarkar</p>
+            <h3>₹1.3 Cr</h3>
+            
+        </div>
+        <div  class="menu-container">
+            <img src="./../image/shell_office.jpg" class="img">
+            <h4>Ready to use Office Space, Pimpri, Pune </h4>
+            <p>By Sharon Suryavanshi</p>
+            <h3>₹48.0 L</h3>
+           
+        </div>
+        
+</div>
+<br><br>
+
+<h1 class="h1">Recently added properties for Rent</h1>
+<div class="container">
+                
+    <div class="menu-container">
+        <img src="./../image/Office-space.avif" class="img">
+        <h4>Ready to use Office Space 700 sq.ft, Bhavani Peth, Pune </h4>
+        <p>By Prashant Kulkarni</p>
+        <h3>₹30,000</h3>
+       
+    </div>
+    <div  class="menu-container">
+        <img src="./../image/showroom.avif"class="img">
+        <h4>Showroom 450 sq.ft, Rakshak Nagar, Kharadi </h4>
+        <p>By FS Reality</p>
+        <h3>₹60,000</h3>
+        
+    </div>
+    <div  class="menu-container">
+        <img src="./../image/office-space 2.avif" class="img">
+        <h4>Ready to use Office Space, 330 sq.ft, Hinjawadi </h4>
+        <p>By Rachana Shivarkar</p>
+        <h3>₹30,000</h3>
+       
+    </div>
+    
+</div>
+<br><br>
+<h1 class="h1">News & Articles</h1>
+<div class="container">
+                
+    <div class="menu-container">
+        <img src="./../image/committee manager.jpg" class="img">
+        <h4>Over 1,13,277 units sold in Pune since January 2024 with more than Rs 4,127 cr collected as stamp duty. </h4>
+        <h6>Knight Frank India, in its latest assessment stated that Pune witnessed property sale registration of 13,314 properties in July 2024, a 25% increase over the same time previous year.</h6>
+       
+       
+    </div>
+    <div  class="menu-container">
+        <img src="./../image/committee manager2.jpg"class="img">
+        <h4>Mhada Pune lottery 2024 offers flats in Pune, Pimpri-Chinchwad, Solapur and Kolhapur </h4>
+        <h6>The Maharashtra Housing and Area Development Authority gives away housing units to citizens of Maharashtra in affordable prices through lottery across its various boards.</h6>
+     
+        
+    </div>
+    <div  class="menu-container">
+        <img src="./../image/committee manager3.jpg" class="img">
+        <h4>Self-occupied properties in Pune get a rebate of 40% in the Pune Property Tax. </h4>
+        <h6>Property tax is one the biggest revenue for Pune. This is used to maintain and improve the infrastructure and other facilities in the city</h6>
+       
+       
+    </div>
+    
+</div>
+
+
+
     <footer>
         <table width="100%" class="table-container foot-text">
             <tr>
-                <td><div class="footer-child-container"><img src="./image/logo.png" class="Logo-image"height="30px"><p class="websitename">Rentify-Hub.com</p></div></td>
+                <td><div class="footer-child-container"><img src="./../image/logo.png" class="Logo-image"height="30px"><p class="websitename">Rentify-Hub.com</p></div></td>
                 <td class="color">Company</td>
                 <td class="color">Partner Sites</td>
                 <td class="color">Explore</td>
@@ -317,11 +172,11 @@ margin:10px 10px;
 
             </tr>
             <tr>
-                <td><div class="footer-child-container2"><a href="#"><img src="./image/facebook.png" class="footer-img"></a>
-                    <a href="#"><img src="./image/instagram.png" class="footer-img"></a>
-                    <a href="#"><img src="./image/linkedin (1).png" class="footer-img"></a>
-                    <a href="#"><img src="./image/github.png" class="footer-img"></a>
-                    <a href="#"><img src="./image/twitter.png" class="footer-img"></a></div></td>
+                <td><div class="footer-child-container2"><a href="#"><img src="./../image/facebook.png" class="footer-img"></a>
+                    <a href="#"><img src="./../image/instagram.png" class="footer-img"></a>
+                    <a href="#"><img src="./../image/linkedin (1).png" class="footer-img"></a>
+                    <a href="#"><img src="./../image/github.png" class="footer-img"></a>
+                    <a href="#"><img src="./../image/twitter.png" class="footer-img"></a></div></td>
                 <td>Carrer</td>
                 <td>Proptiger</td>
                 <td>News</a></td>
